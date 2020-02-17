@@ -1,4 +1,4 @@
-# Business-Model-Canvas-MD-template
+# Business Model Canvas markdown template
 Markdown template for a Business Model Canvas
 
 <table>
