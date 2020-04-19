@@ -1,8 +1,9 @@
 # Name of Business
 This is a Markdown template for developing a business model using the Business Model Canvas.
+Add logo of the business here. Remove this description.
 
 ## Summary of Business
-Add a description that is no longer than your evelvator pitch for your business.
+Add a description that is about the length of an evelvator pitch for the business.
 
 ## Business Model Canvas
 Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
