@@ -80,6 +80,9 @@ Add a very brief summary of each section in this table and provide details in th
 </table>
 
 ## Founders
+<!-- Team members -->
+* NAME, TITLE
+* NAME, TITLE
 * NAME, TITLE
 * NAME, TITLE
 * NAME, TITLE
