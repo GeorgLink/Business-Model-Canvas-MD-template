@@ -64,14 +64,14 @@ Add a very brief summary of each section in this table and provide details in th
   </tr>
   <tr>
     <td colspan="3">
-      <b><a href="Cost_Structure.md">Cost Structure</a></b>
+      <b><a href="Financial_Plan.md">Cost Structure</a></b>
       <p>What are the most important costs to our business?<br>
       Which Key Resources are most expensive?<br>
       Which Key Activities are most expensive?<br>
       How does it coes to establish and run the business?</p>
     </td>
     <td colspan="3">
-      <b><a href="Revenue_Streams.md">Revenue Streams</a></b>
+      <b><a href="Financial_Plan.md">Revenue Streams</a></b>
       <p>For what value are customers willing to pay? <br>
       How would they prefer to pay? <br>
       What is the revenue structure?</p>
