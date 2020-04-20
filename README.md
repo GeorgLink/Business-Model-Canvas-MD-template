@@ -5,6 +5,9 @@ Add logo of the business here. Remove this description.
 ## Summary of Business
 Add a description that is about the length of an evelvator pitch for the business.
 
+## Website of Business
+Add here a link to your website design.
+
 ## Business Model Canvas
 Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
 
