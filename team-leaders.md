@@ -1,6 +1,6 @@
 # Team Leader
 
-* T0: (add name)
+* T0: Nick Wailes
 * T1: (add name)
 * T2: (add name)
 * T3: (add name)
