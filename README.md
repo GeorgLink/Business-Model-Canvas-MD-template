@@ -83,6 +83,6 @@ Add a very brief summary of each section in this table and provide details in th
 <!-- Team members -->
 * Nicholas Wailes, Programmer
 * Yanni Wang, Information Technology Specialist
-* NAME, TITLE
+* Todd Trost, Marketing Analyst
 * NAME, TITLE
 * NAME, TITLE
