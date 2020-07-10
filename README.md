@@ -1,4 +1,4 @@
-# Name of Business
+# OnePiece
 This is a Markdown template for developing a business model using the Business Model Canvas.
 Add logo of the business here. Remove this description.
 
