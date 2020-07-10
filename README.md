@@ -81,8 +81,8 @@ Add a very brief summary of each section in this table and provide details in th
 
 ## Founders
 <!-- Team members -->
-* NAME, TITLE
-* NAME, TITLE
+* Nicholas Wailes, Programmer
+* Yanni Wang, Information Technology Specialist
 * NAME, TITLE
 * NAME, TITLE
 * NAME, TITLE
