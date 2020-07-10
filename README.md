@@ -2,7 +2,7 @@
 ![](https://cdn.discordapp.com/attachments/730997183565791332/731015053696040972/My_Second_Greatest_Masterpeice_of_All_Time.jpg)
 
 ## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+OnePiece will be a forum for discussion about various topics. The userbase will be anonymous so that they discusss topics freely.
 
 ## Website of Business
 Add here a link to your website design.
