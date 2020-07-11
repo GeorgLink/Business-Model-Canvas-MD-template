@@ -1,9 +1,9 @@
-# Name of Business
+# Innoveren
 This is a Markdown template for developing a business model using the Business Model Canvas.
 Add logo of the business here. Remove this description.
 
 ## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+This app will keep track of tasks that an employee has been trained on. They could be written or digital training records that are common in jobs that require an apprenticeship or special certification. This app would save companies time spent on retraining new employees and improve accountability.
 
 ## Website of Business
 Add here a link to your website design.
@@ -81,8 +81,8 @@ Add a very brief summary of each section in this table and provide details in th
 
 ## Founders
 <!-- Team members -->
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
+* Brandon Mayer, TITLE
+* Chelsea McDonough, TITLE
+* Randon Angell, TITLE
+* Vy Vo, Back-end Developer
 * NAME, TITLE
