@@ -84,3 +84,4 @@ Add a very brief summary of each section in this table and provide details in th
 * Chelsea McDonough, Application Support Analyst
 * Randon Angell, Information Technology Manager
 * Vy Vo, Back-end Developer
+* Manish Karki, System Administrator
