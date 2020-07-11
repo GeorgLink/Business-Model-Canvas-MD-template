@@ -1,4 +1,4 @@
-# Innoveren
+# Innovieren
 <img src="IMG_2149.jpg" alt="Team Image" height="300">
 
 ## Summary of Business
