@@ -1,9 +1,9 @@
 # Name of Business
-This is a Markdown template for developing a business model using the Business Model Canvas.
-Add logo of the business here. Remove this description.
+Hybrid Commute
+![Alt text](hybridcommute.jpg?raw=true "Hybrid Commute")
 
 ## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+Facilitate “last mile” commutes via alternative modes of transport (Bike, Skateboard, Roller Skate, Scooter, Rollerblade, Segway).
 
 ## Website of Business
 Add here a link to your website design.
@@ -81,8 +81,9 @@ Add a very brief summary of each section in this table and provide details in th
 
 ## Founders
 <!-- Team members -->
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
+* Makayla Nix, Chief Executive Officer (CEO)
+* Jason Perdew, Chief Marketing Officer (CMO)
+* David Christianson, Chief Financial Officer (CFO)
+* Sweta Kc, Chief Information Officer (CIO)
+* Dan Hoang, Chief Operating Officer (CMO)
+* Jason Perdew, Chief Compliance Officer (CCO)
