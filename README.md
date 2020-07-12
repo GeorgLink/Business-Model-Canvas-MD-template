@@ -1,5 +1,6 @@
 # Name of Business
 Hybrid Commute
+![Alt text](hybridcommute.jpg?raw=true "Hybrid Commute")
 
 ## Summary of Business
 Facilitate “last mile” commutes via alternative modes of transport (Bike, Skateboard, Roller Skate, Scooter, Rollerblade, Segway).
