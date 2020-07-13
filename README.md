@@ -84,4 +84,4 @@ Add a very brief summary of each section in this table and provide details in th
 * Yanni Wang, Information Technology Specialist
 * Todd Trost, Marketing Analyst
 * Andrew Lacouture, Security Analyst
-* Nate Slater, Temp
+* Nate Slater, Business Developmental Manager   
