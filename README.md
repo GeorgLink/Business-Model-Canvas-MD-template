@@ -83,5 +83,5 @@ Add a very brief summary of each section in this table and provide details in th
 * Nicholas Wailes, Programmer
 * Yanni Wang, Information Technology Specialist
 * Todd Trost, Marketing Analyst
-* Andrew Lacouture, Coffee Boy
+* Andrew Lacouture, Security Analyst
 * Nate Slater, Janitor
