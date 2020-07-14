@@ -1,1 +1,2 @@
 # Value Propositions
+Customer service is the most important part for continuing a better standing for a business. Training the operative helps the most resolve the customer problems. The most common happening for customer need is a reason that cause a customer to by a product or service. Customers have a their budget to buy or purchase product, so the price matter the most. The product should be convenient/ suitable to buy. Service and facility is another aspects that the customer needs. Fairness, empathy and options are the main key for a customer service. 
