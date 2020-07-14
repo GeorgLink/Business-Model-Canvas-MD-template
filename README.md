@@ -2,7 +2,7 @@
 <img src="IMG_2149.jpg" alt="Team Image" height="300">
 
 ## Summary of Business
-We create Ditigal Training Record software. It is important for all businesses to keep track of their employees job responsibilites, skills and training. Whether your business is; just starting off, Fortune 500 and even the military, our software can save valuable time and resources. No need to ask employees if they have been trained or spend countless hours going through employee files. Simply reference their training record and you will have the needed information in seconds.    
+We create Ditigal Training Record software. It is important for all businesses to keep track of their employees job responsibilites, skills and training. Whether your business is; just starting off, Fortune 500 or even the military, our software can save valuable time and resources. No need to ask employees if they have been trained or spend countless hours going through employee files. Simply reference their training record and you will have the needed information in seconds.    
 
 ## Website of Business
 Add here a link to your website design.
@@ -27,12 +27,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p>What value do we deliver to the customer?<br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <p>With our Digital Training Record, not only are we providing a tool to track, document, and ensure an employee’s responsibilities, training, and certifications.<br>We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred.<br>Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs. </p>
       <br><br><br><br><br>
     </td>
     <td>
@@ -42,8 +37,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+      <p>Our customers represent a variety of<br>corporations that value high-quality<br>training in operational management,<br>including areas of construction,<br>customer service, retail, healthcare. We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability.</p>
     </td>
   </tr>
   <tr>
