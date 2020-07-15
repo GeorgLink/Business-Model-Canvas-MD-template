@@ -1,5 +1,6 @@
 # Value Propositions
-* Market we're trying to corner is the inbetween/disgruntled users of Reddit/4Chan/Tumblr and open a multi-country and political bias free discussion board. <br> 
+* Market we're trying to corner is the inbetween/disgruntled users of Reddit/4Chan/Tumblr and open a multi-country and political bias free discussion board. <br>
+* Contrary to most other forum based sites, we are trying to have a more balanced ratio of women to men, as women make up of vast majority off "influencer" demographic leading to more traffic.
 
 __Services__
 * Board Customization: Thematic options, layout preferences (text based, blog based, or picture based pages), linkable board music (partnership Spotify).
