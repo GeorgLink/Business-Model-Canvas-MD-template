@@ -3,7 +3,7 @@
   * 75% Male/ 25% Female, (Numbers based on a collection of online forums with similar utilization) 
  * Geographically: Due to it being a universal topic board, open to most countries in the world with translation option. 
  * Needs: Open forum, corner the market on areas that facilitates free discussion. Potentially opening for areas of the world more restrictive on speech. Allow area for political agenda freedom (no bias). 
- * Economic: Free to all users, while allowing subscriptions to remove ad space and allow for seemless browsing and give tier emojis and animations. 
+ * Economic: Free to all users, while allowing subscriptions to remove ad space and allow for seemless browsing and give tiered emojis and animations. 
  * Education: Appealing to people with some college education to college educated people.<br>
 
 # Development over Time: 
