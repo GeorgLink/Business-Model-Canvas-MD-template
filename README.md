@@ -27,7 +27,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p>With our Digital Training Record, not only are we providing a tool to track, document, and ensure an employee’s responsibilities, training, and certifications.<br>We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred.<br>Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs. </p>
+      <p>With our Digital Training Record,<br>not only are we providing a multilinguistic tool to track, document, and ensure an employee’s responsibilities, training, and certifications.<br>We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred.<br>Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs. </p>
       <br><br><br><br><br>
     </td>
     <td>
@@ -37,7 +37,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>Our customers represent a variety of<br>corporations that value high-quality<br>training in operational management,<br>including areas of construction,<br>customer service, retail, healthcare. We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability.</p>
+      <p>Our customers represent a variety of U.S. based corporations that value high-quality training in operational management, including areas of construction, customer service, retail, healthcare.<br> We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability.</p>
     </td>
   </tr>
   <tr>
