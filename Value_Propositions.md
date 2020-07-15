@@ -2,6 +2,8 @@
 * Market we're trying to corner is the inbetween/disgruntled users of Reddit/4Chan/Tumblr and open a multi-country and political bias free discussion board. <br> 
 
 __Services__
+* Board Customization: Thematic, layout preferences, text or picture based pages.
+* Live Streaming: Free streaming service - No subscriber base, donations allowed. Allowed for all boards (segregated by board topics). Option to show streaming sections in user settings.
 * Automated Customer Service - System to redirect for common troubleshooting issues, or if larger issue exists, direct line to technician. 
 * Subscriptions (Monthly), offering removal of ad space alongside additonal benefits to generate intial revenue. 
 
