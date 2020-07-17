@@ -1,4 +1,4 @@
-# Name of Business
+# Hybrid Commute
 Hybrid Commute
 ![Alt text](hybridcommute.jpg?raw=true "Hybrid Commute")
 
