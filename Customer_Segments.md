@@ -1,1 +1,2 @@
-# Customer Segments
+<b>Customer Segments</b>
+<p>At Hybrid Commute we value our customers and their experiences with us. We long to create long term relationships with the community. We have created a loyalty discount program to reward loyal customers with cost savings (i.e. coupons, discounts). We hope to gain more new valuable customers and focuses on improving shared mobility. Our target customers are those who live in very populated areas. Such as cities, universities, airports, and urban parts. The target age is 16-34 with men and women represented equally. This includes young adults, college students, business professionals, regular customers, and tourist. We welcome all ages and variety of people. We look forward to connecting and commuting with you.</p>
