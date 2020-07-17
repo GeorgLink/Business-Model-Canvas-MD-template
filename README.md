@@ -1,5 +1,4 @@
-# Name of Business
-Hybrid Commute
+# Hybrid Commute
 ![Alt text](hybridcommute.jpg?raw=true "Hybrid Commute")
 
 ## Summary of Business
@@ -28,12 +27,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p>What value do we deliver to the customer?<br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <p>Hybrid Commute is a program that helps people navigate their travel options, such as transit, ridesharing, cycling, walking and even telecommuting as alternatives to driving alone to work. Our goal is to help relieve congested roads while helping you save time and money. Through the use of our easy to use website/app, and coordination with our over (number of "vehicles" in our inventory) we ensure that your transportation needs will be met all the way to the last step of your travels and will be handled with care; putting you and your safety as our highest priority.</p>
       <br><br><br><br><br>
     </td>
     <td>
@@ -43,8 +37,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+      <p>At Hybrid Commute we value our customers and their experiences with us. We long to create long term relationships with the community. We have created a loyalty discount program to reward loyal customers with cost savings (i.e. coupons, discounts). We hope to gain more new valuable customers and focus on improving shared mobility. Our target customers are those who live in very populated areas. Such as cities, universities, airports, and urban parts. The target age is 16-34 with men and women represented equally. This includes young adults, college students, business professionals, regular customers, and tourist. We welcome all ages and a variety of people. We look forward to connecting and commuting with you.</p>
     </td>
   </tr>
   <tr>
@@ -86,4 +79,4 @@ Add a very brief summary of each section in this table and provide details in th
 * David Christianson, Chief Financial Officer (CFO)
 * Sweta Kc, Chief Information Officer (CIO)
 * Dan Hoang, Chief Operating Officer (CMO)
-* Jason Perdew, Chief Compliance Officer (CCO)
+* Jacob Hemmerich , Chief Compliance Officer (CCO)
