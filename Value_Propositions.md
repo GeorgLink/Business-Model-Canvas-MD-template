@@ -1,1 +1,2 @@
-# Value Propositions
+ <b>Value Propositions</a></b>
+      <p>Hybrid Commute is a program that helps people navigate their travel options, such as transit, ridesharing, cycling, walking and even telecommuting as alternatives to driving alone to work. Our goal is to help relieve congested roads while helping you save time and money. Through the use of our easy to use website/app, and coordination with our over (number of "vehicles" in our inventory) we ensure that your transportation needs will be met all the way to the last step of your travels and will be handled with care; putting you and your safety as our highest priority.</p>
