@@ -32,8 +32,15 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
-      <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
-      Which ones have we established?</p>
+       <ul>
+         <li>Self-service and automated service</li>
+         <li>Help center with F.A.Q.s</li>
+         <li>Community Forum</li>
+         <li>SMS, mobile chat and web chat</li>
+         <li>Call center and customer support center</li>
+         <li>Form on a website</li>
+         <li>Co-creation strategy</li>
+       </ul> 
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
