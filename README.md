@@ -28,11 +28,8 @@ Add a very brief summary of each section in this table and provide details in th
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
       <p><br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <br>Market we're trying to corner is the inbetween/disgruntled users of Reddit/4Chan/Tumblr and open a multi-country and political bias free discussion board.</br><br>
+      <br>Services we will provide include: Board Customization, Live Streaming, Automated Customer Service, Subscriptions.</br></p>
       <br><br><br><br><br>
     </td>
     <td>
@@ -71,9 +68,12 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p><br>Free to all users.</b><br>
+      <br>Subriptions (Monthly), offering remvoal of ad space alognside additional benefits to generate intial revenue.</br><br>
+      <br>Users would have algorithim generated ads based on profile fourm discussions and posts. Additionally, ad spaces to generate revenue for the site with sponsored ads           within the homepage and heavily trafficed boards.</br><br>
+      <br>Sponsored ad spaces to be contracted with online retrailers. Generate revenue based on percentage of site visits/purchases from re-direct from our forum.</br><br>
+      <br>Autcion based ads, pay per amount of views/interations (i.e. $5 per 1000 views/interactions).</br>
+      </p>
     </td>
   </tr>
 </table>
