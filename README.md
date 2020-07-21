@@ -34,8 +34,12 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
-      <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
-      Which ones have we established?</p>
+      <p><br>Our goal at One Piece is to have unitrusive methods of communication with its customerbase. We do not intend on contacting our customers unless their is something             directly affecting their accounts.</br><br>
+         <br>Patch notices and website updates will be a stickied post for indefinite periods of time, depending on the impact of damges.</br>
+         <br>OnePiece will also send in site account messages on any site changes/board issues</br><br>
+         <br><b>Subscriber Loyalty Program:</b> With purchase of subscription for the whole year, include next years rate at reduced cost with additional benefits of renewing            subscription.</br><br>
+         <br><b>Online Customer Service:</b> Baseline items of issue that can be easily rerouted by bot system to troubleshooting answers.</br>
+         <br>More complex issues encountered will reroute to (outsourced) customer service line to either resolve issue, or log problem to be resolved by IT staff.</br></p>
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
