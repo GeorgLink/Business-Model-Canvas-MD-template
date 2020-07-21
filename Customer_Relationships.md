@@ -15,4 +15,4 @@ A long with the self-service strategy, we draw on an automated-service model, wh
 
 To better understand our customer needs and expectations, we create a community forum around our products and services, where they can exchange knowledge, get helps and find advice among fellow users.
 
-Last but not least, Hybrid Commute uses co-creation strategy in which we upload videos and podcast to promote user-generated content. This will help answer user questions and allows consumers to submit ideas, designs or content</p>
+Last but not least, Hybrid Commute uses co-creation strategy in which we upload videos and podcast to promote user-generated content. This also help answer user questions and allows consumers to submit ideas, designs or content.</p>
