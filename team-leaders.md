@@ -2,7 +2,7 @@
 
 * T0: Nick Wailes
 * T1: Todd Trost
-* T2: (add name)
+* T2: Yanni Wang
 * T3: (add name)
 * T4: (add name)
 * T5: (add name)
