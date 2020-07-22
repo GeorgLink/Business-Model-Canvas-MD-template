@@ -43,7 +43,10 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?<br>
+      <p>Demographic - 18-35 age range, 75% Male/ 25% Female<br>
+      <p>Trying to be more accessible to the general public - more female friendly<br>
+       
+
       Who are our most important customers?</p>
     </td>
   </tr>
