@@ -59,8 +59,11 @@ Add a very brief summary of each section in this table and provide details in th
       <b><a href="Channels.md">Channels</a></b>
       <p>*Social Networks,word of mouth (colorful kiosk, bumper stickers, reviews), family and friends, Hybrid Commute blog, email, phone, events, and community presence.
       *Advertising- local newspaper, Google,e, Facebook, Instagram, and Twitter.
+        
       *Freemium option (try it out)
+      
       *Sponsor events (Donate Life, MADD)
+      
       *Travel Bloggers- (safe, cheap, convenient)
       *App Store (reviews)
       *Google Play
