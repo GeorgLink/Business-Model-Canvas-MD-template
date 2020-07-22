@@ -69,6 +69,7 @@ Add a very brief summary of each section in this table and provide details in th
 <li>Physical debit card</li>
 <li>Partnerships (companies and non profits that promote safe travel, streaming companies)</li>
 </ul>
+      
     </td>
   </tr>
   <tr>
