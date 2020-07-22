@@ -28,4 +28,3 @@
 By creating an account with us, customers can purchase our services through email, phone, app and website. They can also purchase our services in person. We accept PayPal, Credit Cards, personal checks and money orders. We also have in person kiosk scattered throughout cities. Hybrid Commute also introduced a real debit card that users can obtain by applying online.
 
 Hybrid Commute guarantees customer satisfaction by refund, replacement, or return. Also, we send out customer surveys, reviews and questions to create recommendations based on user experiences.</p>
-  

@@ -57,18 +57,18 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <ul>
-  <li>Social networks, word of mouth (colorful kiosk, bumper stickers, reviews), family & friends, Hybrid Commute blog, email, phone, events, community presence.</li>
-  <li>Advertising – local newspaper, Google, Facebook, Instagram, and Twitter</li>
-  <li>Freemium option (try out option)</li>
-  <li>Sponsor events (Donate Life, MADD)</li>
-  <li>Travel bloggers (Safe, cheap, convenient)</li>
-  <li>App Store (reviews)</li>
-  <li>Google Play</li>
-  <li>Web version with limited functionality</li>
-  <li>Physical debit card</li>
-  <li>Partnerships (companies and non profits that promote safe travel, streaming companies)</li>
- </ul>
+<ul>
+<li>Social networks, word of mouth (colorful kiosk, bumper stickers, reviews), family & friends, Hybrid Commute blog, email, phone, events, community presence.</li>
+<li>Advertising – local newspaper, Google, Facebook, Instagram, and Twitter</li>
+<li>Freemium option (try out option)</li>
+<li>Sponsor events (Donate Life, MADD)</li>
+<li>Travel bloggers (Safe, cheap, convenient)</li>
+<li>App Store (reviews)</li>
+<li>Google Play</li>
+<li>Web version with limited functionality</li>
+<li>Physical debit card</li>
+<li>Partnerships (companies and non profits that promote safe travel, streaming companies)</li>
+</ul>
     </td>
   </tr>
   <tr>
