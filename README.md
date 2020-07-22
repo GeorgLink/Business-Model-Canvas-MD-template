@@ -45,10 +45,10 @@ Add a very brief summary of each section in this table and provide details in th
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
       <p>Demographic - 18-35 age range, 75% Male/ 25% Female<br>
       <p>Trying to be more accessible to the general public - more female friendly<br>
+      <p> Open forum, corner the market on areas that facilitates free discussion.<br>
+      <p>Potentially opening for areas of the world more restrictive on speech. Allow area for political agenda freedom.<br>
        
 
-      Who are our most important customers?</p>
-    </td>
   </tr>
   <tr>
     <td>
