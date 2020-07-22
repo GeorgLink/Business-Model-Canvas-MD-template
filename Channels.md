@@ -12,8 +12,8 @@
   <li>Partnerships (companies and non profits that promote safe travel, streaming companies)</li>
  </ul>
  
- <p>Hybrid Commute is set out to establish brand awareness through a wide range of channels. They are:</p>
  
+ <p>Hybrid Commute is set out to establish brand awareness through a wide range of channels. They are:</p>
  <ul>
   <li>Videos, podcasts, blogging and social media for those who want to listen. We want to deliver quality content on a daily basis to keep customers engaging and sharing content willingly.</li>
   <li>Word of mouth to help bring out the most relevant and inclined to purchase audience.</li>
