@@ -12,8 +12,8 @@
   <li>Partnerships (companies and non profits that promote safe travel, streaming companies)</li>
  </ul>
  
- 
- <p>Hybrid Commute is set out to establish brand awareness through a wide range of channels. They are:</p>
+ <br><br>
+ <p>- Hybrid Commute is set out to establish brand awareness through a wide range of channels. They are:</p>
  <ul>
   <li>Videos, podcasts, blogging and social media for those who want to listen. We want to deliver quality content on a daily basis to keep customers engaging and sharing content willingly.</li>
   <li>Word of mouth to help bring out the most relevant and inclined to purchase audience.</li>
@@ -23,9 +23,9 @@
   <li>Support: Online, phone, app – tech support, transportation choice support, route optimization support</li>
  </ul>
  
- <p>We offer a freemium option (try out option) to enhance the customer experience with us, before making a purchase.
+ <p>- We offer a freemium option (try out option) to enhance the customer experience with us, before making a purchase.
 
-By creating an account with us, customers can purchase our services through email, phone, app and website. They can also purchase our services in person. We accept PayPal, Credit Cards, personal checks and money orders. We also have in person kiosk scattered throughout cities. Hybrid Commute also introduced a real debit card that users can obtain by applying online.
+- By creating an account with us, customers can purchase our services through email, phone, app and website. They can also purchase our services in person. We accept PayPal, Credit Cards, personal checks and money orders. We also have in person kiosk scattered throughout cities. Hybrid Commute also introduced a real debit card that users can obtain by applying online.
 
-Hybrid Commute guarantees customer satisfaction by refund, replacement, or return. Also, we send out customer surveys, reviews and questions to create recommendations based on user experiences.</p>
+- Hybrid Commute guarantees customer satisfaction by refund, replacement, or return. Also, we send out customer surveys, reviews and questions to create recommendations based on user experiences.</p>
   
