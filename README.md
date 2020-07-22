@@ -57,28 +57,31 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <p>*Social Networks,word of mouth (colorful kiosk, bumper stickers, reviews), family and friends, Hybrid Commute blog, email, phone, events, and community presence.
-      *Advertising- local newspaper, Google,e, Facebook, Instagram, and Twitter.
-        
+      <p>
+        *Social Networks,word of mouth (colorful kiosk, bumper stickers, reviews), family and friends, Hybrid Commute blog, email, phone, events, and community presence. 
+      *Advertising- local newspaper, Google, Facebook, Instagram, and Twitter.   
       *Freemium option (try it out)
-      
       *Sponsor events (Donate Life, MADD)
-      
       *Travel Bloggers- (safe, cheap, convenient)
       *App Store (reviews)
       *Google Play
       *Web version with limited functionality
       *Physical debit card
-      *Patnerships (companiesand non profits that promote safe travel
+      *Patnerships (companies and non profits that promote safe travel)
+        
       Hybrid Commute is set out to establish brand awareness through a wide range of channels.
+      
       They are:
       *Videos, podcast, blogging and social media for those who want to listen. We want to deliver quality content on a daily basis to keep customers engaging and sharing content willingly.
-      *Word of mouth to hlep bring out the most relevant and inclined to purchase audience.
+      *Word of mouth to help bring out the most relevant and inclined way to travel to our audience.
       *Advertising with Facebook, Google, Instagram, Twitter, and local newspapers to hlep boost sales in short term and also help in clearing stocks.
       *Sponsoring travel TV shows, Honolulu Marathon to get Hybrid in front of people that like to travel and commute.
       *Hybrid Commute relies on relationships with partners to raise awareness.
       *Support: Online, phone, app-techsupport, transportation choice support.
-      We offer a freemium option (try out option) to enhance the customer experience with us, before making a purchase. By creating an account with us, customers can purchase our servicesthrough email, phone, app, or website. They can also purchase out services in person WE accept PayPal, Credit Cards, personal checks and money orders. We also have in perosn kiosk scattered throughout cities. Hybrid Commutealso introduced a real debid card that users can obtian by applying online. Hybrid Commute guarantees customer satisfaction by refund, replacement, or return. Also, we send out customers surveys, reviews and questions to create recommendations based on user experience. </p>
+        
+      We offer a freemium option (try out option) to enhance the customer experience with us, before making a purchase. 
+        By creating an account with us, customers can purchase our servicesthrough email, phone, app, or website. They can also purchase out services in person we accept PayPal, Credit Cards, personal checks and money orders. We also have in person kiosk scattered throughout cities. Hybrid Commute also introduced a real debit card that users can obtian by applying online. 
+        Hybrid Commute guarantees customer satisfaction by refund, replacement, or return. Also, we send out customers surveys, reviews and questions to create recommendations based on user experience. </p>
     </td>
   </tr>
   <tr>
