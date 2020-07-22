@@ -32,8 +32,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
-      <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
-      Which ones have we established?</p>
+      <p>Innovieren believes current clients will be just as important as new buyers. As such; our sales representatives will work to develop a lasting relationships with our consumers. We provide personal assistances, self and automated services to maintain relationships and upsell product advancements.</p>
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
@@ -50,9 +49,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <p>Through which Channels do our Customer Segments want to be reached?<br>
-      How are our Channels integrated?
-      How are we integrated with customer routines?</p>
+      <p>We will utilize Sales Representatives to manage customer contact via: Social Media, Web advertising (Google), phone calls, e-mails, website and face-to-face contact. Our client's will be able to evaluate our customizable program free for 120 days and purchase an annual, 2 years or 3 years subscriptions afterwards. Subscription purchases will be through our website and based on number of employees and years subscribed. Support will be provided via on-line chat/video and in person if needed.</p>
     </td>
   </tr>
   <tr>
