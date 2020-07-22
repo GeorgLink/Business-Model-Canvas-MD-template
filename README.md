@@ -57,9 +57,9 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <p>Through which Channels do our Customer Segments want to be reached?<br>
-      How are our Channels integrated?
-      How are we integrated with customer routines?</p>
+      <p><b>Viral Marketing Campaign:</b> Small 30 second clips advertising what our platform brings to the table compared to competitiors<br>
+         <br><b>Sweepstakes:</b> Marketed in the viral campaign and be presented as a home banner on the front page of the website for the first initial week.<br>
+           <br><b>Customer Review(App Store + Feedback Surveys):</b> Reviews collected by our marketing team. Reviews will handed out through the website asking for customer                suggestions on improvements and issues they would like addressed.</p>
     </td>
   </tr>
   <tr>
