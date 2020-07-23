@@ -2,7 +2,7 @@
 <img src="IMG_2149.jpg" alt="Team Image" height="300">
 
 ## Summary of Business
-We create Ditigal Training Record software. It is important for all businesses to keep track of their employees job responsibilites, skills and training. Whether your business is; just starting off, Fortune 500 or even the military, our software can save valuable time and resources. No need to ask employees if they have been trained or spend countless hours going through employee files. Simply reference their training record and you will have the needed information in seconds.    
+We create Digital Training Record software. It is important for all businesses to keep track of their employees job responsibilites, skills and training. Whether your business is; just starting off, Fortune 500 or even the military, our software can save valuable time and resources. No need to ask employees if they have been trained or spend countless hours going through employee files. Simply reference their training record and you will have the needed information in seconds.    
 
 ## Website of Business
 Add here a link to your website design.
@@ -20,10 +20,11 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+      <p>Problem Solving<br>
+      Software Development and Programming<br>
+      Sales Representative Development<br>
+      Client Development<br>
+      Customization for Clients' Needs</p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
@@ -42,10 +43,10 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
+      <p>Physical: Trailblazing software and networks<br>
+      Intellectual: Proprietary knowledge, copyrights, customer databases, patents, customer partnerships, branding<br>
+        Human: Trustworthy track record, creativity, experience, committed sales representatives and technicians<br>
+        Financial: Offering lines of credit and stock investment opportunities</p>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
