@@ -1,6 +1,4 @@
 # Key Resources
 
-What Key Resources do our Value Propositions require? <br>
-Our Distribution Channels? <br>
-Customer Relationships? <br>
-Revenue Streams? <br>
+List the key resources required to make your business model work. Consider physical, intellectual, human, and financial assets. Identify whether you would own these resources, rent or lease them, or acquire them through business partners.
+
