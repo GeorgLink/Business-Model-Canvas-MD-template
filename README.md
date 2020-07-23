@@ -8,7 +8,6 @@ OnePiece will be a forum for discussion about various topics. The userbase will 
 Add here a link to your website design.
 
 ## Business Model Canvas
-Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
 
 <table>
   <tr>
