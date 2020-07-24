@@ -52,7 +52,9 @@ Add here a link to your website design.
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p></p>
+      <p>Requires a team to run the platform and manage the financial resources. With forcasted growth, layout for division of teams will commense.<br>
+      <br>First teams would be Data Managment, Software Engineering, Finance, and the original founders become the PR/Board of directors.<br>
+      <br>Physical Resources: Grow from hosting the site remotely to having dedicated servers and an office space to work in.</p>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
