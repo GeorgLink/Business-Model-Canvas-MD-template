@@ -2,7 +2,7 @@
 <img src="IMG_2149.jpg" alt="Team Image" height="300">
 
 ## Summary of Business
-We create Digital Training Record software. It is important for all businesses to keep track of their employees job responsibilites, skills and training. Whether your business is; just starting off, Fortune 500 or even the military, our software can save valuable time and resources. No need to ask employees if they have been trained or spend countless hours going through employee files. Simply reference their training record and you will have the needed information in seconds.    
+<align="justify">We create Digital Training Record software. It is important for all businesses to keep track of their employees job responsibilites, skills and training. Whether your business is; just starting off, Fortune 500 or even the military, our software can save valuable time and resources. No need to ask employees if they have been trained or spend countless hours going through employee files. Simply reference their training record and you will have the needed information in seconds.    
 
 ## Website of Business
 Add here a link to your website design.
