@@ -1,6 +1,2 @@
 # Key Activities
-- Problem Solving
-- Software Development and Programming
-- Sales Representative Development
-- Client Development
-- Customization for Clients' Needs
+Our Key Activities include problem solving, software development and programming, sales representative development, client development, and customization for clients' needs.
