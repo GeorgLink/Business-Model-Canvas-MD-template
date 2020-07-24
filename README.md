@@ -39,10 +39,12 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p>Physical: Trailblazing software and networks<br>
-      Intellectual: Proprietary knowledge, copyrights, customer databases, patents, customer partnerships, branding<br>
-        Human: Trustworthy track record, creativity, experience, committed sales representatives and technicians<br>
-        Financial: Offering lines of credit and stock investment opportunities</p>
+      <ul>
+        <li>Physical: Trailblazing software and networks</li>
+        <li>Intellectual: Proprietary knowledge, copyrights, customer databases, patents, customer partnerships, branding</li>
+        <li>Human: Trustworthy track record, creativity, experience, committed sales representatives and technicians</li>
+        <li>Financial: Offering lines of credit and stock investment opportunities</li>
+      </ul>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
