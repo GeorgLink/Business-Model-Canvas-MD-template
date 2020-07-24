@@ -1,4 +1,4 @@
 # Key Resources
 
-List the key resources required to make your business model work. Consider physical, intellectual, human, and financial assets. Identify whether you would own these resources, rent or lease them, or acquire them through business partners.
+We would require team to run the website and manage the financial resources. We would need a marketing team to help puiblicize ourselves. In terms of actual starting capital - we do not need many resources as office space/overhead is not much. We would need server space. 
 
