@@ -20,11 +20,11 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p align="justify">Our Key Activities include problem solving, software development and programming, sales representative development, client development, and customization for clients' needs.</p>
+      <p>Our Key Activities include problem solving, software development and programming, sales representative development, client development, and customization for clients' needs.</p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p align="justify">With our Digital Training Record,<br>not only are we providing a multilinguistic tool to track, document, and ensure an employee’s responsibilities, training, and certifications.<br>We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred.<br>Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs. </p>
+      <p>With our Digital Training Record,<br>not only are we providing a multilinguistic tool to track, document, and ensure an employee’s responsibilities, training, and certifications.<br>We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred.<br>Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs. </p>
       <br><br><br><br><br>
     </td>
     <td>
@@ -33,13 +33,13 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p align="justify">Our customers represent a variety of U.S. based corporations that value high-quality training in operational management, including areas of construction, customer service, retail, healthcare.<br> We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability.</p>
+      <p>Our customers represent a variety of U.S. based corporations that value high-quality training in operational management, including areas of construction, customer service, retail, healthcare.<br> We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability.</p>
     </td>
   </tr>
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <ul align="justify">
+      <ul>
         <li>Physical: Trailblazing software and networks</li>
         <li>Intellectual: Proprietary knowledge, copyrights, customer databases, patents, customer partnerships, branding</li>
         <li>Human: Trustworthy track record, creativity, experience, committed sales representatives and technicians</li>
