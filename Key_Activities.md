@@ -19,5 +19,3 @@ A part of our job is to provide customer support, keep prices competitive and ne
 Our HR team is focused on recruiting and training people, who want to collaborate in a diverse, inclusive environment.
 
 Raising brand awareness is an ongoing job, but necessary to help our company grow and expand. For this, we have writers, bloggers and content creators to post new content every day. They work alongside with our marketing team and have the responsibilities of collecting user data to help company leaders make decisions. 
-
- 

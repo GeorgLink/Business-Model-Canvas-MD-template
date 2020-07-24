@@ -20,10 +20,15 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+      <ul>
+        <li>Platform development and maintenance</li>
+        <li>Provide customer support and maintain relationship with them</li>
+        <li>Keep prices competitive</li>
+        <li>Expand to more cities and countries</li>
+        <li>Conduct user research, collect and analyze data</li>
+        <li>Negotiation with partners</li>
+        <li>Raising brand awareness</li>
+      </ul>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
@@ -50,26 +55,31 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
+      <ul>
+        <li>Platform (website, apps, community forum, blog, etc.)</li>
+        <li>Hardware and office equipment (buildings, computers, phone, storage devices, scanners and printers)</li>
+        <li>Developers, testers, UX designers, engineers and other staffs (human resources)</li>
+        <li>PayPal’s funds (we need available funds for everything, obviously)</li>
+        <li>Gather data (a database with data to help us make decisions and support our customers)</li>
+        <li>User-generated content (help us gather data and maintain customer relationship)</li>
+        <li>Licenses (we need licenses to do business)</li>
+        <li>Network effects between drivers and riders (we need to have many partners and drivers)</li>
+      </ul>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-<ul>
-<li>Social networks, word of mouth (colorful kiosk, bumper stickers, reviews), family & friends, Hybrid Commute blog, email, phone, events, community presence.</li>
-<li>Advertising – local newspaper, Google, Facebook, Instagram, and Twitter</li>
-<li>Freemium option (try out option)</li>
-<li>Sponsor events (Donate Life, MADD)</li>
-<li>Travel bloggers (Safe, cheap, convenient)</li>
-<li>App Store (reviews)</li>
-<li>Google Play</li>
-<li>Web version with limited functionality</li>
-<li>Physical debit card</li>
-<li>Partnerships (companies and non profits that promote safe travel, streaming companies)</li>
-</ul>
-      
+      <ul>
+        <li>Social networks, word of mouth (colorful kiosk, bumper stickers, reviews), family & friends, Hybrid Commute blog, email, phone, events, community presence</li>
+        <li>Advertising – local newspaper, Google, Facebook, Instagram, and Twitter</li>
+        <li>Freemium option (try out option)</li>
+        <li>Sponsor events (Donate Life, MADD)</li>
+        <li>Travel bloggers (Safe, cheap, convenient)</li>
+        <li>App Store (reviews)</li>
+        <li>Google Play</li>
+        <li>Web version with limited functionality</li>
+        <li>Physical debit card</li>
+        <li>Partnerships (companies and non profits that promote safe travel, streaming companies)</li>
+      </ul>   
     </td>
   </tr>
   <tr>
