@@ -20,11 +20,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p>Problem Solving<br>
-      Software Development and Programming<br>
-      Sales Representative Development<br>
-      Client Development<br>
-      Customization for Clients' Needs</p>
+      <p>Our Key Activities include problem solving, software development and programming, sales representative development, client development, and customization for clients' needs.</p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
