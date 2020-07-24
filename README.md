@@ -19,10 +19,10 @@ Add here a link to your website design.
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+      <p><b>Digital Products:</b> Unique emojis, animations, flairs attached to subsriber tier lists.<br>
+        <br><b>OnePiece Platform:</b> Forum platform, from the beginning will be maintained as needed.<br>
+        <br><b>Maintenance:</b> Customer Service to support troubleshooting.
+      </p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
@@ -52,10 +52,7 @@ Add here a link to your website design.
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
+      <p></p>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
