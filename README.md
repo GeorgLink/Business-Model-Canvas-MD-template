@@ -28,6 +28,9 @@ Add a very brief summary of each section in this table and provide details in th
         <li>Conduct user research, collect and analyze data</li>
         <li>Negotiation with partners</li>
         <li>Raising brand awareness</li>
+        <li>Partner with companies to do background checks</li>
+        <li>Partner with local restaurants and bars to make sure riders get in the appropriate vehicle</li>
+        <li>Safety mode on app</li>
       </ul>
     </td>
     <td rowspan="2" colspan="2">
