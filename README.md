@@ -48,7 +48,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <p align="justify">We will utilize Sales Representatives to manage customer contact via: social media, phone calls, e-mails, website and face-to-face contact. Contact may be initiated by any of the mention mean but all sales and transactions will be finalized through our website with the aid of a sales representative. Our client's will be able to evaluate our customizable program free for 120 days and purchase an annual, 2 years or 3 years subscriptions afterwards. Subscription purchases will be through our website and based on number of employees and years subscribed. Support will be provided via online chat/video, phone, or in person if needed.</p>
+      <p align="justify">We will utilize Sales Representatives to manage customer contact and advertisement via: social media, phone calls, e-mails, website, face-to-face contact, and Google AdSense. Contact may be initiated by any of the mention mean but all sales and transactions will be finalized through our website with the aid of a sales representative. Our client's will be able to evaluate our customizable program free for 120 days and purchase an annual, 2 years or 3 years subscriptions afterwards. Subscription purchases will be through our website and based on number of employees and years subscribed. Support will be provided via online chat/video, phone, or in person if needed.</p>
     </td>
   </tr>
   <tr>
