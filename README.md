@@ -33,7 +33,7 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>Our customers represent a variety of U.S. based corporations that value high-quality training in operational management, including areas of construction, customer service, retail, healthcare. We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability. Our target market will be nursing care, residential care facilities, air transportation industries, big retail chains, and other industries with the highest worker compensations and OSHA violation claims. These industries are losing millions of dollars annualy in compensation for preventable injuries and OSHA fines. Our product will guarantee proper training to prevent future injury claims and OSHA violations.</p>
+      <p>Our customers represent a variety of U.S. based corporations that value high-quality training in operational management, including areas of construction, customer service, retail, healthcare. We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability. We will attempt to get the walmart corporation as our first customers. Our target market will be nursing care, residential care facilities, air transportation industries, big retail chains, and other industries with the highest worker compensations and OSHA violation claims. These industries are losing millions of dollars annualy in compensation for preventable injuries and OSHA fines. Our product will guarantee proper training to prevent future injury claims and OSHA violations.</p>
     </td>
   </tr>
   <tr>
