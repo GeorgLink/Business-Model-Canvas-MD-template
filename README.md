@@ -40,10 +40,10 @@ Add a very brief summary of each section in this table and provide details in th
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
       <ul>
-        <li>Physical: Trailblazing software and networks</li>
-        <li>Intellectual: Proprietary knowledge, copyrights, customer databases, patents, customer partnerships, branding</li>
-        <li>Human: Trustworthy track record, creativity, experience, committed sales representatives and technicians</li>
-        <li>Financial: Offering lines of credit and stock investment opportunities</li>
+        <li>Physical: In order for Innovieren to operate we will need three separate servers, one dedicated to the Digital Training Record website, a second one to run our corporate LAN to allow employees to communicate and collaborate and a thrid server and network would be required to run our sales, customer service, and IT departments VOIP phone banks. All servers would be managed by a Unix server operating system. We would also require a database to backup and maintain all client data. Innovieren will own all equipment to maintain positive control and security of our clients data.</li>
+        <li>Intellectual: Innovieren will need dedicated and knowledgeable programmers and web designers to bring the Digital Training Record to life. We will own all rights to Proprietary knowledge, copyrights, patents, and branding.</li>
+        <li>Human: We will require a versatile, reliable, and innovative staff to run our sales, customer service, and IT departments as well as experienced leaders to manage all departments. Due to legality, Innovieren will not own, rent, or lease its employees.</li>
+        <li>Financial: In order for Innovieren to be successfull we will need investors to invest in our organization to get off the ground. These investors will be given a contract guaranteeing a return of investment with interest as well as stock options.</li>
       </ul>
     </td>
     <td>
