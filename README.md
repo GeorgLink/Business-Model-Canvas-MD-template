@@ -13,8 +13,8 @@ Add here a link to your website design.
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
+      <p>Our key partners is Spotify, to stream music. This will push ads on non premium accounts. We will give an incentive of a free year membership. Amazon to use their website storage/data for free.<br>
+      We partner with companies that will utilize sub pages as their advertisement platform.<br>
       Which Key Activities do partners perform?</p>
     </td>
     <td>
