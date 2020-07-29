@@ -8,5 +8,5 @@
 
 # Development over Time: 
 * Production of an automated moderator team based on artificial intelligence input from moderator team monitored over the beginning startup period (first inital 2-4 years). [Cut Costs overtime][Potentially market AI to other boards depending on success?]// Overtime, push for cleaner scripts and coding to allow for more seemless and quicker transition from pages to posts/comments/images. <br>
-  * We hope that within the first year we could 500-1000 daily posters, and 5000 daily users. Hopefully those numbers will at least double anually within the follwoing years. We took this estimate from trying to be realistic about a new online forum that and the stiff competition we will receive from other platforms. We wree unable to pull actual metrics of what ratio of content "generators" to "consumers" there are.
+* We hope that within the first year we could 500-1000 daily posters, and 5000 daily users. Hopefully those numbers will at least double anually within the follwoing years. We took this estimate from trying to be realistic about a new online forum that and the stiff competition we will receive from other platforms. We wree unable to pull actual metrics of what ratio of content "generators" to "consumers" there are.
 
