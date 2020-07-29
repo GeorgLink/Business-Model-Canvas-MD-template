@@ -5,7 +5,7 @@
 OnePiece will be a forum for discussion about various topics. The userbase will create a profile to be allowed to post, but be given the option to post anonymously for the purpose of facilitating more free discussion. With that in mind, OnePiece hopes to corner the market on a mixed bag of users from sites like Reddit or 4chan. Including targeted advertisment algorithmns, we plan on specializing ads towards user profiles (potentially taking into account areas/or boards they've discussed anonymously). OnePiece will also have sponsored ads of the website posted on higher traffic/popular boards for the website. Lastly, OnePiece offer premium membership packages that will allow for ad space removal while browsing, and be given unique emojis and privileges similar to a combination of premium Reddit and Twitch subscriptions.
 
 ## Website of Business
-Add here a link to your website design.
+https://nickwailes123.wixsite.com/onepieceforum/forum
 
 ## Business Model Canvas
 
