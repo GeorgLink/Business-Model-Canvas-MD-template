@@ -84,7 +84,7 @@ At Hybrid Commute we value our customers and their experiences with us. We long 
 Below is a list of Customers:
 
 **Riders:**
-They are ranging from Middle to Upper Lower Class.
+They are ranging from Middle to Upper Lower Class. Riding happen mostly in the city and urban areas.
 - Millennials
 - GenZ
 - Business Professionals
