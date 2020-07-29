@@ -4,4 +4,4 @@
   <br>
   <p>Strike deal with Amazon to utilize cloud services for website hosting/data storage for free. In return, put their advertisement on our homepage, and highest trafficked page. After first initial few months of sign-ups, start charging them for advertisements on our page, but at reduced rate in comaprison to other companies for slots.
 <br>
-    <p>We can also partner with various product creating companies that will use our sub pages as targeted advertising platforms. we found taht indivdual targeted ads tend to become more annyoing than attractive due to their repetitive nature, and the fact that ads will pertain to specific interests will help with their market "pull".
+    <p>We can also partner with various product creating companies that will use our sub pages as targeted advertising platforms. We found that indivdual targeted ads tend to become more annyoing than attractive due to their repetitive nature, and the fact that ads will pertain to specific interests will help with their market "pull".
