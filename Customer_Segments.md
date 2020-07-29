@@ -1,6 +1,6 @@
 # Customer Segments
 * Demographic - 18-35 age range
-  * <br>
+  * 
   60% Male/ 40% Female, (Numbers based on a collection of online forums with similar utilization) 
   * We hope that within the first year we could 500-1000 daily posters, and 5000 daily users. Hopefully those numbers will at least double anually within the follwoing years. We took this estimate from trying to be realistic about a new online forum that and the stiff competition we will receive from other platforms. We wree unable to pull actual metrics of what ratio of content "generators" to "consumers" there are.
  * Geographically: Due to it being a universal topic board, open to most countries in the world with translation option. 
