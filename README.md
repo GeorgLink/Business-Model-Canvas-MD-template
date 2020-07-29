@@ -36,6 +36,30 @@ Add a very brief summary of each section in this table and provide details in th
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
       <p>Hybrid Commute is a program that helps people navigate their travel options, such as transit, ridesharing, cycling, walking and even telecommuting as alternatives to driving alone to work. Our goal is to help relieve congested roads while helping you save time and money. Through the use of our easy to use website/app, and coordination with our over (number of "vehicles" in our inventory) we ensure that your transportation needs will be met all the way to the last step of your travels and will be handled with care; putting you and your safety as our highest priority.</p>
+      <li>Value:</li>
+        <li>Customers time</li>
+        <li>Popular Ecommerce</li>
+        <li>Creates more business in local communities</li>
+      <li>Problem Solving</li>
+        <li>Traffic Jams</li>
+        <li>Reliable Transportation</li>
+        <li>Safe Transportation</li>
+        <li>Affordable Transportation</li>
+        <li>fast Pick Up Time</li>
+      <li>Satisfying</li>
+        <li>Various forms of Travel</li>
+        <li>Local Businesses (new business opportunity)</li>
+        <li>Non Profit Events</li>
+        <li>Local Attractions</li>
+        <li>Business Conferences</li>
+        <li>Large Groups</li>
+      <li>We Offer</li>
+        <li>Quick Online Purchases</li>
+        <li>Simple Booking Process</li>
+        <li>Safe Transportation (background checks, reliable apps, alert button, reliable vehicles)</li>
+        <li>Convenient Bill Splitting</li>
+        <li>Rating System</li>
+      
       <br><br><br><br><br>
     </td>
     <td>
@@ -53,6 +77,30 @@ Add a very brief summary of each section in this table and provide details in th
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
       <p>At Hybrid Commute we value our customers and their experiences with us. We long to create long term relationships with the community. We have created a loyalty discount program to reward loyal customers with cost savings (i.e. coupons, discounts). We hope to gain more new valuable customers and focus on improving shared mobility. Our target customers are those who live in very populated areas. Such as cities, universities, airports, and urban parts. The target age is 16-34 with men and women represented equally. This includes young adults, college students, business professionals, regular customers, and tourist. We welcome all ages and a variety of people. We look forward to connecting and commuting with you.</p>
+            <li>Customers</li>
+        <li>*Riders</li>
+        <li>Specific:</li>
+        <li>Middle to Upper Lower Class</li>
+        <li>Millennials</li>
+        <li>GenZ</li>
+        <li>Business Professionals</li>
+        <li>Tourist (regular and budget travelers)</li>
+        <li>College Students</li>
+        <li>Commuters</li>
+        <li>General Public</li>
+        <li>Marketers</li>
+        <li>Business Travelers</li>
+        <li>Those who prefer mobile payments</li>
+        <li>Recruiters and marketers</li>
+        <li>*Fast, Affordable, and Reliable Travel. Mostly in the city and urban areas. College Campuses. Airports. Hotels.</li>
+      <li>*Drivers</li>
+        <li>Specific:</li>
+        <li>Lower Middle Class to Lower Class</li>
+        <li>Blue Collar Workers</li>
+        <li>Minimum Wage Workers</li>
+        <li>College Students</li>
+        <li>Single Parents</li>
+        <li>*Provides an extra source of income</li>
     </td>
   </tr>
   <tr>
