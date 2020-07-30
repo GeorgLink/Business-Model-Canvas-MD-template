@@ -25,6 +25,7 @@ Add a very brief summary of each section in this table and provide details in th
       -Instacart, Lyft, Doordash, Postmates, and Grubhub
     </td>
     <td>
+    
       <b><a href="Key_Activities.md">Key Activities</a></b>
 
    - Platform development and maintenance
