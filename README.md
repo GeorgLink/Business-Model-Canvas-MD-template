@@ -13,10 +13,14 @@ Add a very brief summary of each section in this table and provide details in th
 <table>
   <tr>
     <td rowspan="2">
-      <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      -Airbnb+local hotels
+      -Local bars, restaurants, and shopping
+      -Local governments
+      -Sporitng Goods stores
+      -Local tech start ups
+      -Paypal and other cashless payment services
+      -Universities, airports, big businesses
+      -Instacart, Lyft, Doordash, Postmates, and Grubhub
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
