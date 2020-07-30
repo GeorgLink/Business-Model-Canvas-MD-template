@@ -13,6 +13,7 @@ Add a very brief summary of each section in this table and provide details in th
 <table>
   <tr>
     <td rowspan="2">
+      <b><a href="Key_Partners.md">Key Partners</a></p>
       -Airbnb+local hotels
       -Local bars, restaurants, and shopping
       -Local governments
