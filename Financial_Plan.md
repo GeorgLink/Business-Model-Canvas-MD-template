@@ -28,11 +28,8 @@
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
-#Documentation of Assumed Expenses
-*<b>Employee Salaries
-  <br>
-  <br>
-  
+# Documentation of Assumed Expenses
+###### Employee Salaries
 
 <h1><b>Citations</b></h1>
 <br>
