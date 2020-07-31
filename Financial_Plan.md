@@ -29,7 +29,10 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 <br>
 <h1><b>Documentation of Assumed Expenses</b></h1>
-
+*<b>Employee Salaries
+  <br>
+  <br>
+  
 
 <h1><b>Citations</b></h1>
 <br>
