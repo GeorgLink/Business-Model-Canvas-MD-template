@@ -26,4 +26,4 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
 
-Please document your assumptions of how you arrived at the dollar estimates.
+<h1><b>Documentation of Asuumed Expenses</b></h1>
