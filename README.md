@@ -13,15 +13,17 @@ Add a very brief summary of each section in this table and provide details in th
 <table>
   <tr>
     <td rowspan="2">
-      <b><a href="Key_Partners.md">Key Partners</a></p>
-      -Airbnb+local hotels
-      -Local bars, restaurants, and shopping
-      -Local governments
-      -Sporitng Goods stores
-      -Local tech start ups
-      -Paypal and other cashless payment services
-      -Universities, airports, big businesses
-      -Instacart, Lyft, Doordash, Postmates, and Grubhub
+      <b><a href="Key_Partners.md">Key Partners</a></b>
+      <ul>
+        <li>Airbnb+local hotels</li>
+        <li>Local bars, restaurants, and shopping</li>
+        <li>Local governments</li>
+        <li>Sporitng Goods stores</li>
+        <li>Local tech start ups</li>
+        <li>Paypal and other cashless payment services</li>
+        <li>Universities, airports, big businesses</li>
+        <li>Instacart, Lyft, Doordash, Postmates, and Grubhub</li>
+      </ul>
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
@@ -72,15 +74,15 @@ Hybrid Commute is a program that helps people navigate their travel options, suc
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
-
-- Self-service and automated service
-- Help center with F.A.Q.s
-- Community Forum
-- SMS, mobile chat and web chat
-- Call center and customer support center
-- Form on a website
-- Co-creation strategy
-
+      <ul>
+        <li>Self-service and automated service</li>
+        <li>Help center with F.A.Q.s</li>
+        <li>Community Forum</li>
+        <li>SMS, mobile chat and web chat</li>
+        <li>Call center and customer support center</li>
+        <li>Form on a website</li>
+        <li>Co-creation strategy</li>
+      </ul>
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
@@ -151,9 +153,17 @@ The majority of our drivers are Lower Middle Class to Lower Class. We provides t
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+As a young company, all revenue is good revenue and it will be a starting point to build from for the future. Thus, Hybrid Commute draws on a revenue model below to drive revenue from each Customer Segment:
+
+**Freemium and Subscriptions.** By attracting customers to the basic set of services and features, we aim to provide paying customers premium services such as material handling, comfort, weekend discount, etc. Our inside track club is $29.99 for a year and offers these premium services.
+
+**Advertising and Affiliate Marketing.** Our free-to-download apps, community forum, blog and services have grown mostly thanks to advertising. By offering  travel guidance and commute solutions services, we make commissions by referring other products and services to customers. We only recommend products that we find beneficial to our customers (personalized offers using data about users’ spending).
+
+**Sponsorship.** As mentioned, we have a small team of developers providing useful, engaging and possibly unique apps to support the business process and customer relationship. They survive by ads and donations from users and customers. For this, we include a PayPal donate button and kindly ask users for coffee and beer.
+
+**Fee-based.** This model is intended to generate significant revenue for Hybrid Commute. It requires a large pool of users to find our main services (commute solution and transportation rental services) valuable enough to pay a small fee. These fees can be either percent-based or flat.
+
+With this revenue model, Hybrid Commute aims to fine-tune our sales engine and make it a top priority.
     </td>
   </tr>
 </table>
