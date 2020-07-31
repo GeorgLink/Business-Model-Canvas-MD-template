@@ -11,7 +11,7 @@
 |Bookkeeper | - | $45K | $45k | $50K |
 |Data Analyst | - | $50K | $60K | $70K |
 |10 Computers w/ Telecommunication Capabilities | $10000 | $15000 | - | - |
-|Hosting | $327.77 | $3936| $3936 | $15324 |
+|Hosting | $328 | $3936| $3936 | $15324 |
 |Backup Storage | $105 | $1260 | $1260 | $1260 |
 |SQL services | $481 | $5772 | $5772 | $5772 |
 |Data Storage/Processing | $100| $500 | $500 | $500 |
