@@ -3,26 +3,28 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Founders Salary | - | $500000 | 600000 | 700000|
-|Office Space & Utilities | $45000 | $45000 | $45000 | $45000 |
-|Misc. Office Supplies | $14500 | $5000 | $9400 | $6000 |
-|Insurance | - | $500 | $1500 | $2500 |
+|Founders Salary | - | $500,000 | 600,000 | 700,000|
+|Office Space & Utilities | $450,00 | $45,000 | $45,000 | $45,000 |
+|Misc. Office Supplies | $14,500 | $5,000 | $9,400 | $6,000 |
+|Insurance | - | $500 | $1,500 | $2,500 |
 |Software Engineer | - | $100K | $100K | $100K |
 |Bookkeeper | - | $45K | $45k | $50K |
 |Data Analyst | - | $50K | $60K | $70K |
-|10 Computers w/ Telecommunication Capabilities | $10000 | $15000 | - | - |
-|Hosting | $328 | $3936| $3936 | $15324 |
-|Backup Storage | $105 | $1260 | $1260 | $1260 |
-|SQL services | $481 | $5772 | $5772 | $5772 |
+|Marketing | $75 | $45,000 | $50,000 | $60,000 |
+|Customer Service | - | $30,000 | $30,000 | $30,000|
+|10 Computers w/ Telecommunication Capabilities | $10,000 | $15,000 | - | - |
+|Hosting | $328 | $3,936| $3,936 | $15,324 |
+|Backup Storage | $105 | $1,260 | $1,260 | $1,260 |
+|SQL services | $481 | $5,772 | $5,772 | $5,772 |
 |Data Storage/Processing | $100| $500 | $500 | $500 |
 |Domain Name | $15 | $15 | $15 | $15 |
 |Payment Form Processing + Storage | $25 | $50 | $100 | $150 |
-|Graphic Design | $1500 | - | - | $1500 |
+|Graphic Design | $1,500 | - | - | $,1500 |
 | | | | | |
 |TOTAL COST | $72,053 | $772,030 | $771,981| $$$ |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
-|Number of Customers | 0 | 50000 | 150000 | 300000 |
+|Number of Customers | 0 | 50,000 | 150,000 | 300,000 |
 |Item ($$$ revenue per customer) | 0 | $$$ | $$$ | $$$ |
 | | | | | |
 | TOTAL REVENUE | 0 | $$$ | $$$ | $$$ |
@@ -34,25 +36,35 @@
 
 - Office Supplies - Desks, Chairs, Fax Machine, Telephones, Printers, Writing Utensials, etc.
 
+- Our hopefull partnership with Amazon
+
 #### Employee Salaries
 ###### Startup
 - Founders, Software Engineers, Data Analysis, and Bookkeppers will not hold a salary for the first year.
-- Graphic Designer - $1,500
+- Graphic Designer = $1,500
+- Marketing - Search Engine Optimized Ads = $75
+- Customer Service - Founders will handle all customer service issues.
 ###### Year 1
 - Founders X 5 - $100,000 = $500,000
 - Software Engineer - $100,000 = $100,000
 - Bookkeeper - $40,000 = $40,000
 - Data Analyst - $50,000 = $50,000
+- Marketing Analyst - $50,000 = $50,000
+- Customer Service - $30,000 = $30,000
 ###### Year 2
 - Founders X 5 - $120,000 = $600,000
 - Software Engineer X 3 - $100,000 = $300,000
 - Bookkeeper - $40,000 = $40,000
 - Data Analyst - $60,000 = $50,000
+- Marketing Analyst - $60,000 = 650,000
+- Customer Service X 2 - $30,000 = $60,000
 ###### Year 3
 - Founders X 5 - $140,000 = $700,000
 - Software Engineer X 4 - $100,000 = $400000
 - Bookkeeper X 2 - $40,000 = $80,000
 - Data Analyst X 2 - $70,000 = $140,000
+- Marketing Analyst - $70,000 = $70,000
+- Customer Service X 3 - $30,000 = $90,000
 # Citations
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
 Amazon Web Services, Inc. (2020). AWS Pricing Calculator. Retrieved July 31, 2020, from https://calculator.aws/
@@ -62,5 +74,6 @@ Indeed. (2020). Home. Retrieved July 31, 2020, from https://www.indeed.com/caree
 Indeed. (2020). Home. Retrieved July 31, 2020, from https://www.indeed.com/career/software-engineer/salaries
 Microsoft. (2020). Microsoft Surface Laptop 3 15" Touch-Screen AMD Ryzen™ 5 Surface Edition 8GB Memory 256GB SSD (Latest Model) Platinum VGZ-00001. Retrieved July 31, 2020, from https://www.bestbuy.com/site/microsoft-surface-laptop-3-15-touch-screen-amd-ryzen-5-surface-edition-8gb-memory-256gb-ssd-latest-model-platinum/6374335.p?skuId=6374335
 Payscale. (2020). Average Bookkeeper Hourly Pay. Retrieved July 31, 2020, from https://www.payscale.com/research/US/Job=Bookkeeper/Hourly_Rate
+Payscale. (2020). Average Marketing Analyst Salary. Retrieved July 31, 2020, from https://www.payscale.com/research/US/Job=Marketing_Analyst/Salary
 Schäferhoff, N. (2020, July 17). How Much Does a Website Cost? (A Detailed Website Cost Blueprint). Retrieved July 31, 2020, from https://websitesetup.org/website-cost/
 Schmid, G. (2020, March 18). 14 Business Startup Costs Business Owners Need to Know. Retrieved July 31, 2020, from https://www.fundera.com/blog/business-startup-costs
