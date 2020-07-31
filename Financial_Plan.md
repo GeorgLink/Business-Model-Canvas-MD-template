@@ -11,7 +11,7 @@
 |Bookkeeper | - | $45K | $45k | $50K |
 |Data Analyst | - | $50K | $60K | $70K |
 |Marketing | $75 | $45,000 | $50,000 | $60,000 |
-|Customer Service | - | $30,000 | $30,000 | $30,000|
+|Customer Service | - | $30,000 | $60,000 | $90,000|
 |10 Computers w/ Telecommunication Capabilities | $10,000 | $15,000 | - | - |
 |Hosting | $328 | $3,936| $3,936 | $15,324 |
 |Backup Storage | $105 | $1,260 | $1,260 | $1,260 |
