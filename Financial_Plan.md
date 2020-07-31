@@ -27,8 +27,8 @@
 | TOTAL REVENUE | 0 | $$$ | $$$ | $$$ |
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
-<br>
-<h1><b>Documentation of Assumed Expenses</b></h1>
+
+#Documentation of Assumed Expenses
 *<b>Employee Salaries
   <br>
   <br>
