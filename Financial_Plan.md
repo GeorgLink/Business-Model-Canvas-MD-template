@@ -36,7 +36,7 @@
 
 - Office Supplies - Desks, Chairs, Fax Machine, Telephones, Printers, Writing Utensials, etc.
 
-- Our hopefull partnership with Amazon
+- Workout a partnership with Amazon: Hosting, Database Storage/Processing, Database Analysis, and Backup Storage. 
 
 #### Employee Salaries
 ###### Startup
