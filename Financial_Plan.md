@@ -30,14 +30,16 @@
 # Documentation of Assumed Expenses
 #### Employee Salaries
 ###### Year 1
-- 
+- Founders X 5 - $100,000 = $500,000
 - Software Engineer - $95,000 = $95,000
 - Bookkeeper - $40,000 = $40,000
 ###### Year 2
+- Founders X 5 - $120,000 = $600,000
 - Software Engineer X 3 - $95,000 = $285000
 - Bookkeeper - $40,000 = $40,000
 - Data Analyst - $50,000 = $50,000
 ###### Year 3
+- Founders X 5 - $140,000 = $700,000
 - Software Engineer X 4 - $95,000 = $380000
 - Bookkeeper X 2 - $40,000 = $80,000
 - Data Analyst X 2 - $50,000 = $100,000
