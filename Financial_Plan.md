@@ -31,4 +31,4 @@
 
 
 <h1><b>Citations</b></h1>
-12107 Emmet Street, Omaha NE *OfficeSpace* https://www.officespace.com/ne/omaha/253212-12101-emmet-st
+12107 Emmet Street, Omaha NE *OfficeSpace https://www.officespace.com/ne/omaha/253212-12101-emmet-st
