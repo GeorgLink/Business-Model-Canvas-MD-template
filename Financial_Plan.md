@@ -19,7 +19,7 @@
 |Payment Form Processing + Storage | $25 | $50 | $100 | $150 |
 |Graphic Design | $1500 | - | - | $1500 |
 | | | | | |
-|TOTAL COST | $71,040 | $272,730.24 | $771,981| $$$ |
+|TOTAL COST | $72,053 | $272,730 | $771,981| $$$ |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | 5000 | 10000 | 20000 |
