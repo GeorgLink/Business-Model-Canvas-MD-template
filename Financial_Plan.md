@@ -34,3 +34,4 @@
 <h1><b>Citations</b></h1>
 <br>
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
+Schmid, G. (2020, March 18). 14 Business Startup Costs Business Owners Need to Know. Retrieved July 31, 2020, from https://www.fundera.com/blog/business-startup-costs
