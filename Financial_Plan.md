@@ -3,8 +3,7 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Office Space & Utilities | $45000 | $45000 | $45000 | $45000 |
-|Insurance | $0 | $500 | $1500 | $2500 |
+|Insurance | $0 | $
 |Software Engineer | $95K | $100K | $100K | $100K |
 |Bookeeper | $40K | $45K | $45k | $50K |
 |Data Analyst | $0 | $50K | $60K | $70K |
@@ -32,3 +31,4 @@
 
 
 <h1><b>Citations</b></h1>
+ 12107 Emmet Street, Omaha NE *Officespace*https://www.officespace.com/ne/omaha/253212-12101-emmet-st
