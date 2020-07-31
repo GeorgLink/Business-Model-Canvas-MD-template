@@ -4,11 +4,10 @@
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
 |License| $50 | 0 | 0 | 0|
-|Website creation/Designing | $2000| $$$ | $$$ | $$$ |
+|Website creation/Designing | $2000 | $$$ | $$$ | $$$ |
 |Marketing/MAnufacturing | $ 5000/year | $5000/year | $5000/year | $5000/year |
 |Basic supplies | $100 | $100 | $100 | $100 |
-|Payroll| $14,585| $14,585 | $14,585 | $14,585 |
-
+|Payroll | $14,585 | $14,585 | $14,585 | $14,585 |
 | | | | | |
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ |
 | | | | | |
@@ -42,10 +41,8 @@
 
 8. How much money does it cost to start a business? (2020, July 2). Business News Daily. https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html
 
-9.McIntyre, G. (2020, April 18). How to get a business license: The ultimate state-by-state guide. Fundera: Compare Your Best Small Business Loan and Credit Card Options. https://www.fundera.com/blog/business-license
+9. McIntyre, G. (2020, April 18). How to get a business license: The ultimate state-by-state guide. Fundera: Compare Your Best Small Business Loan and Credit Card Options. https://www.fundera.com/blog/business-license
      
-
-Reply
 
 ### Note on Revenue Accounting:
 1. Number of customers was estimated by using reference 1. In this estimation, I follow the 30% growth each year of Lyft and Uber. But, since we are a young company and have a lot of potential to grow fast in the first few years, I tripled the amount.
@@ -60,7 +57,7 @@ Reply
 
 6. Fee-based for our main services was estimated using mostly my own assumptions. These fees can be either percent-based or flat. For commute solutions service, we take 7% out of the user cost for their trip. For transportation rental service, we charge the same as U-Haul and Enterprise. Also, on average, Americans are spending anywhere between $2,000 and $5,000 on transportation each year and we have 5% market share in the beginning.
 
-###Note on Cost Structures
+### Note on Cost Structures
 
 The most important cost for our business is the startup cost. Since getting a license is the primary phase and most important.
 
