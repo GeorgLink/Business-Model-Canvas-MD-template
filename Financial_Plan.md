@@ -57,7 +57,7 @@
 
 6. Fee-based for our main services was estimated using mostly my own assumptions. These fees can be either percent-based or flat. For commute solutions service, we take 7% out of the user cost for their trip. For transportation rental service, we charge the same as U-Haul and Enterprise. Also, on average, Americans are spending anywhere between $2,000 and $5,000 on transportation each year and we have 5% market share in the beginning.
 
-### Note on Cost Structures
+### Note on Cost Structures:
 
 The most important cost for our business is the startup cost. Since getting a license is the primary phase and most important.
 
