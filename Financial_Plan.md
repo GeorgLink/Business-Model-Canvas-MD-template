@@ -22,21 +22,6 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
 
-Number of Customers     0             1000      2000      5000
-
-Subscription        0             $39.99 / year      $39.99 / year      $39.99 / year
-
-Advertising (ref 2)             0             $7.18     $9.59     $12.13
-
-Affiliate Marketing           0             $12.70   $24.50   $28.83
-
-Sponsorship        0             $7           $10.01   $14.31
-
-Fee-based for Main Services         0             $100      $180      $250
-
-TOTAL REVENUE              0             $166,870             $528,180             $1,726,300
-
-
 ### References:
 1. Monex Securities Australia. (2019, May 28). Breaking down Lyft, Inc.'s huge IPO. Retrieved July 31, 2020, from https://www.monexsecurities.com.au/insights/news/breaking-down-lyft-inc-huge-ipo
 
