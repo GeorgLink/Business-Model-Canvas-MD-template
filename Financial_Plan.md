@@ -11,10 +11,10 @@
 |Bookkeeper | - | $45K | $45k | $50K |
 |Data Analyst | - | $50K | $60K | $70K |
 |10 Computers w/ Telecommunication Capabilities | $10000 | $15000 | - | - |
-|Hosting | $327.77 per month | $327.77 per month| $327.77 per month | $1277.50 per month |
-|Backup Storage | $105 per month | $105 per month | $105 per month | $105 per month |
-|SQL services | $481 per month | $481 per month | $481 per month | $481 per month |
-|Data Storage/Processing | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request |
+|Hosting | $327.77 | $327.77 per month| $327.77 per month | $1277.50 per month |
+|Backup Storage | $105 | $105 per month | $105 per month | $105 per month |
+|SQL services | $481 | $481 per month | $481 per month | $481 per month |
+|Data Storage/Processing | $100 per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request |
 |Domain Name | $15 | $15 | $15 | $15 |
 |Payment Form Processing + Storage | $25 | $50 | $100 | $150 |
 |Graphic Design | $1500 | - | - | $1500 |
