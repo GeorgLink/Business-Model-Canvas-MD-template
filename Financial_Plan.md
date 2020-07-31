@@ -18,7 +18,7 @@
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
-|Number of Customers | 0 | x | x | x |
+|Number of Customers | 0 | 5000 | 10000 | 20000 |
 |Item ($$$ revenue per customer) | 0 | $$$ | $$$ | $$$ |
 | | | | | |
 | TOTAL REVENUE | 0 | $$$ | $$$ | $$$ |
