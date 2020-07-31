@@ -27,6 +27,7 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
 
+
 <b>Documentation of Assumed Expenses</b>
 
 
