@@ -3,7 +3,9 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Insurance | $0 | $
+|Office Space & Utilities | $45000 | $45000 | $45000 | $45000 |
+|Misc. Office Supplies | $14500 | $5000 | $17500 | $6000 |
+|Insurance | $0 | $500 | $1500 | $2500 |
 |Software Engineer | $95K | $100K | $100K | $100K |
 |Bookeeper | $40K | $45K | $45k | $50K |
 |Data Analyst | $0 | $50K | $60K | $70K |
