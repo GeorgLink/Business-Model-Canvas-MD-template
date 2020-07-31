@@ -30,9 +30,17 @@
 # Documentation of Assumed Expenses
 #### Employee Salaries
 ###### Year 1
-- Software Engineer -
-  
-
+- 
+- Software Engineer - $95,000 = $95,000
+- Bookkeeper - $40,000 = $40,000
+###### Year 2
+- Software Engineer X 3 - $95,000 = $285000
+- Bookkeeper - $40,000 = $40,000
+- Data Analyst - $50,000 = $50,000
+###### Year 3
+- Software Engineer X 4 - $95,000 = $380000
+- Bookkeeper X 2 - $40,000 = $80,000
+- Data Analyst X 2 - $50,000 = $100,000
 <h1><b>Citations</b></h1>
 <br>
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
