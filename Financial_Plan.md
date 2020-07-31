@@ -7,9 +7,9 @@
 |Office Space & Utilities | $450,00 | $45,000 | $45,000 | $45,000 |
 |Misc. Office Supplies | $14,500 | $5,000 | $9,400 | $6,000 |
 |Insurance | - | $500 | $1,500 | $2,500 |
-|Software Engineer | - | $100K | $100K | $100K |
-|Bookkeeper | - | $45K | $45k | $50K |
-|Data Analyst | - | $50K | $60K | $70K |
+|Software Engineer | - | $100K | $300K | $400K |
+|Bookkeeper | - | $40K | $40k | $80K |
+|Data Analyst | - | $50K | $50K | $100K |
 |Marketing | $75 | $45,000 | $50,000 | $60,000 |
 |Customer Service | - | $30,000 | $60,000 | $90,000|
 |10 Computers w/ Telecommunication Capabilities | $10,000 | $15,000 | - | - |
@@ -49,21 +49,21 @@
 - Software Engineer - $100,000 = $100,000
 - Bookkeeper - $40,000 = $40,000
 - Data Analyst - $50,000 = $50,000
-- Marketing Analyst - $50,000 = $50,000
+- Marketing Analyst - $45,000 = $45,000
 - Customer Service - $30,000 = $30,000
 ###### Year 2
 - Founders X 5 - $120,000 = $600,000
 - Software Engineer X 3 - $100,000 = $300,000
 - Bookkeeper - $40,000 = $40,000
-- Data Analyst - $60,000 = $50,000
-- Marketing Analyst - $60,000 = 650,000
+- Data Analyst - $50,000 = $50,000
+- Marketing Analyst - $50,000 = $50,000
 - Customer Service X 2 - $30,000 = $60,000
 ###### Year 3
 - Founders X 5 - $140,000 = $700,000
-- Software Engineer X 4 - $100,000 = $400000
+- Software Engineer X 4 - $100,000 = $400,000
 - Bookkeeper X 2 - $40,000 = $80,000
-- Data Analyst X 2 - $70,000 = $140,000
-- Marketing Analyst - $70,000 = $70,000
+- Data Analyst X 2 - $50,000 = $100,000
+- Marketing Analyst - $60,000 = $60,000
 - Customer Service X 3 - $30,000 = $90,000
 # Citations
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
