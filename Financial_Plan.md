@@ -30,5 +30,5 @@
 
 
 <h1><b>Citations</b></h1>
-  <br>
+<br>
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
