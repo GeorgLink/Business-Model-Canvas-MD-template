@@ -29,6 +29,11 @@
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 # Documentation of Assumed Expenses
+
+- Liability Insurance - Protects our company in case of an accident that could potentially happend during work hours.
+
+- Office Supplies - Desks, Chairs, Fax Machine, Telephones, Printers, Writing Utensials, etc.
+
 #### Employee Salaries
 ###### Startup
 - Founders, Software Engineers, Data Analysis, and Bookkeppers will not hold a salary for the first year.
@@ -50,4 +55,5 @@
 - Data Analyst X 2 - $70,000 = $140,000
 # Citations
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
+How Much Does General Liability Insurance Cost? (n.d.). Retrieved July 31, 2020, from https://www.insureon.com/small-business-insurance/general-liability/cost
 Schmid, G. (2020, March 18). 14 Business Startup Costs Business Owners Need to Know. Retrieved July 31, 2020, from https://www.fundera.com/blog/business-startup-costs
