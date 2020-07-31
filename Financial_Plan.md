@@ -35,7 +35,7 @@
 
 6. Sponsorship.com. (2016). Http://www.sponsorship.com/IEG/files/f3/f3cfac41-2983-49be-8df6-3546345e27de.pdf. WHAT SPONSORS WANT &amp; WHERE DOLLARS WILL GO IN 2018.
 
-### Note on Revenue Accounting
+### Note on Revenue Accounting:
 1. Number of customers was estimated by using reference 1. In this estimation, I follow the 30% growth each year of Lyft and Uber. But, since we are a young company and have a lot of potential to grow fast in the first few years, I tripled the amount.
 
 2. Subscription revenue was estimated by using reference 2. Assume we charge $80 / year for membership cost (similar to Costco and Sam’s Club) and only half of our users subscribed to this service.
