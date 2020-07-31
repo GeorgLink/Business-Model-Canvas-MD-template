@@ -3,6 +3,7 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
+|Insurance | $0 | $
 |Software Engineer | $95K | $100K | $100K | $100K |
 |Bookeeper | $40K | $45K | $45k | $50K |
 |Data Analyst | $0 | $50K | $60K | $70K |
@@ -26,4 +27,7 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
 
-<h1><b>Documentation of Asuumed Expenses</b></h1>
+<h1><b>Documentation of Assumed Expenses</b></h1>
+
+
+<h1><b>Citations</b></h1>
