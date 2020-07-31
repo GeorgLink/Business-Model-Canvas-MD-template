@@ -7,7 +7,7 @@
 |Misc. Office Supplies | $14500 | $5000 | $9400 | $6000 |
 |Insurance | $0 | $500 | $1500 | $2500 |
 |Software Engineer | $95K | $100K | $100K | $100K |
-|Bookeeper | $40K | $45K | $45k | $50K |
+|Bookkeeper | $40K | $45K | $45k | $50K |
 |Data Analyst | $0 | $50K | $60K | $70K |
 |10 Computers w/ Telecommunication Capabilities | $10000 | $15000 | $0 | $0 |
 |Hosting | $327.77 per month | $327.77 per month| $327.77 per month | $1277.50 per month |
@@ -27,9 +27,12 @@
 | TOTAL REVENUE | 0 | $$$ | $$$ | $$$ |
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
-
-# Documentation of Assumed Expenses
-###### Employee Salaries
+<br>
+<h1><b>Documentation of Assumed Expenses</b></h1>
+#### Employee Salaries
+###### Year 1
+- Software Engineer -
+  
 
 <h1><b>Citations</b></h1>
 <br>
