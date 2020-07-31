@@ -3,20 +3,21 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
+|Founders Salary | - | $500000 | 500000 | 500000|
 |Office Space & Utilities | $45000 | $45000 | $45000 | $45000 |
 |Misc. Office Supplies | $14500 | $5000 | $9400 | $6000 |
-|Insurance | $0 | $500 | $1500 | $2500 |
-|Software Engineer | $95K | $100K | $100K | $100K |
-|Bookkeeper | $40K | $45K | $45k | $50K |
-|Data Analyst | $0 | $50K | $60K | $70K |
-|10 Computers w/ Telecommunication Capabilities | $10000 | $15000 | $0 | $0 |
+|Insurance | - | $500 | $1500 | $2500 |
+|Software Engineer | - | $100K | $100K | $100K |
+|Bookkeeper | - | $45K | $45k | $50K |
+|Data Analyst | - | $50K | $60K | $70K |
+|10 Computers w/ Telecommunication Capabilities | $10000 | $15000 | - | - |
 |Hosting | $327.77 per month | $327.77 per month| $327.77 per month | $1277.50 per month |
 |Backup Storage | $105 per month | $105 per month | $105 per month | $105 per month |
 |SQL services | $481 per month | $481 per month | $481 per month | $481 per month |
 |Data Storage/Processing | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request | $100 per month per TB/ $.20 per million input or output request |
 |Domain Name | $15 | $15 | $15 | $15 |
 |Payment Form Processing + Storage | $25 | $50 | $100 | $150 |
-|Graphic Design | $1500 | $0 | $0 | $1500 |
+|Graphic Design | $1500 | - | - | $1500 |
 | | | | | |
 |TOTAL COST | $71,040 | $272,730.24 | $771,981| $$$ |
 | | | | | |
