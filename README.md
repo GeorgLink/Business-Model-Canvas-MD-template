@@ -153,9 +153,17 @@ The majority of our drivers are Lower Middle Class to Lower Class. We provides t
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+As a young company, all revenue is good revenue and it will be a starting point to build from for the future. Thus, Hybrid Commute draws on a revenue model below to drive revenue from each Customer Segment:
+
+**Freemium and Subscriptions.** By attracting customers to the basic set of services and features, we aim to provide paying customers premium services such as material handling, comfort, weekend discount, etc. Our inside track club is $29.99 for a year and offers these premium services.
+
+**Advertising and Affiliate Marketing.** Our free-to-download apps, community forum, blog and services have grown mostly thanks to advertising. By offering  travel guidance and commute solutions services, we make commissions by referring other products and services to customers. We only recommend products that we find beneficial to our customers (personalized offers using data about users’ spending).
+
+**Sponsorship.** As mentioned, we have a small team of developers providing useful, engaging and possibly unique apps to support the business process and customer relationship. They survive by ads and donations from users and customers. For this, we include a PayPal donate button and kindly ask users for coffee and beer.
+
+**Fee-based.** This model is intended to generate significant revenue for Hybrid Commute. It requires a large pool of users to find our main services (commute solution and transportation rental services) valuable enough to pay a small fee. These fees can be either percent-based or flat.
+
+With this revenue model, Hybrid Commute aims to fine-tune our sales engine and make it a top priority.
     </td>
   </tr>
 </table>
