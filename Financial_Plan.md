@@ -18,7 +18,7 @@
 |Payment Form Processing + Storage | $25 | $50 | $100 | $150 |
 |Graphic Design | $1500 | $0 | $0 | $1500 |
 | | | | | |
-|TOTAL COST | $$$ | $$$ | $$$ | $$$ |
+|TOTAL COST | $71,040 | $272,730.24 | $771,981| $$$ |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | 5000 | 10000 | 20000 |
@@ -28,9 +28,12 @@
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 # Documentation of Assumed Expenses
+#### Utilities/Suppplies/Furnishings
+###### Startup
+
+
 #### Employee Salaries
 ###### Year 1
-- Founders X 5 - $100,000 = $500,000
 - Software Engineer - $95,000 = $95,000
 - Bookkeeper - $40,000 = $40,000
 ###### Year 2
