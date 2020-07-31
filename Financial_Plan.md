@@ -27,8 +27,8 @@
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
 
-<h1><b>Documentation of Assumed Expenses</b></h1>
+<b>Documentation of Assumed Expenses</b>
 
 
-<h1><b>Citations</b></h1>
+<b>Citations</b>
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
