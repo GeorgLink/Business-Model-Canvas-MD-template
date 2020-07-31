@@ -3,7 +3,7 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Founders Salary | - | $500000 | 500000 | 500000|
+|Founders Salary | - | $500000 | 600000 | 700000|
 |Office Space & Utilities | $45000 | $45000 | $45000 | $45000 |
 |Misc. Office Supplies | $14500 | $5000 | $9400 | $6000 |
 |Insurance | - | $500 | $1500 | $2500 |
@@ -29,25 +29,25 @@
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 # Documentation of Assumed Expenses
-#### Utilities/Suppplies/Furnishings
-###### Startup
-
-
 #### Employee Salaries
+###### Startup
+- Founders, Software Engineers, Data Analysis, and Bookkeppers will not hold a salary for the first year.
+- Graphic Designer - $1,500
 ###### Year 1
-- Software Engineer - $95,000 = $95,000
-- Bookkeeper - $40,000 = $40,000
-###### Year 2
-- Founders X 5 - $120,000 = $600,000
-- Software Engineer X 3 - $95,000 = $285000
+- Founders X 5 - $100,000 = $500,000
+- Software Engineer - $100,000 = $100,000
 - Bookkeeper - $40,000 = $40,000
 - Data Analyst - $50,000 = $50,000
+###### Year 2
+- Founders X 5 - $120,000 = $600,000
+- Software Engineer X 3 - $100,000 = $300,000
+- Bookkeeper - $40,000 = $40,000
+- Data Analyst - $60,000 = $50,000
 ###### Year 3
 - Founders X 5 - $140,000 = $700,000
-- Software Engineer X 4 - $95,000 = $380000
+- Software Engineer X 4 - $100,000 = $400000
 - Bookkeeper X 2 - $40,000 = $80,000
-- Data Analyst X 2 - $50,000 = $100,000
-<h1><b>Citations</b></h1>
-<br>
+- Data Analyst X 2 - $70,000 = $140,000
+# Citations
 12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
 Schmid, G. (2020, March 18). 14 Business Startup Costs Business Owners Need to Know. Retrieved July 31, 2020, from https://www.fundera.com/blog/business-startup-costs
