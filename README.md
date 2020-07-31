@@ -14,9 +14,16 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <ul>
+        <li>Airbnb+local hotels</li>
+        <li>Local bars, restaurants, and shopping</li>
+        <li>Local governments</li>
+        <li>Sporitng Goods stores</li>
+        <li>Local tech start ups</li>
+        <li>Paypal and other cashless payment services</li>
+        <li>Universities, airports, big businesses</li>
+        <li>Instacart, Lyft, Doordash, Postmates, and Grubhub</li>
+      </ul>
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
@@ -67,15 +74,15 @@ Hybrid Commute is a program that helps people navigate their travel options, suc
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
-
-- Self-service and automated service
-- Help center with F.A.Q.s
-- Community Forum
-- SMS, mobile chat and web chat
-- Call center and customer support center
-- Form on a website
-- Co-creation strategy
-
+      <ul>
+        <li>Self-service and automated service</li>
+        <li>Help center with F.A.Q.s</li>
+        <li>Community Forum</li>
+        <li>SMS, mobile chat and web chat</li>
+        <li>Call center and customer support center</li>
+        <li>Form on a website</li>
+        <li>Co-creation strategy</li>
+      </ul>
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
