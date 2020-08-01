@@ -14,6 +14,7 @@
 
 
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
+|---|---|---|---|---|
 |Number of Customers | 0 | 1000 | 2000 | 5000 |
 |Subscription | 0 | $39.99 / year | $39.99 / year | $39.99 / year |
 |Advertising | 0 | $7.18 | $9.59 | $12.13 |
