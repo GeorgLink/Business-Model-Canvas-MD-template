@@ -27,9 +27,9 @@
 |Number of Customers | 0 | 50,000 | 150,000 | 300,000 |
 |Item (Average revenue per customer) | 0 | $5 | $5 | $5 |
 | | | | | |
-| TOTAL REVENUE | 0 | $25,000 | 750,000 | 1,500,000 |
+| TOTAL REVENUE | 0 | $250,000 | 750,000 | 1,500,000 |
 | | | | | |
-| TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
+| TOTAL PROFIT | - | (522,030) | (21,981) | $$$ |
 # Documentation of Assumed Expenses
 
 - Liability Insurance - Protects our company in case of an accident that could potentially happend during work hours.
