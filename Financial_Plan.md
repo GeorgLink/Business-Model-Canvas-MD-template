@@ -13,6 +13,7 @@
 |Lease/Furninshing/utilities| $5,000 | $22,000 | $22,000 | $22,000 |
 |TOTAL COST | $26,735 | $49,113 | $49,186 | $49,249 | 
 | | | | | |
+
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
 |Number of Customers | - | 1000 | 2000 | 5000 |
