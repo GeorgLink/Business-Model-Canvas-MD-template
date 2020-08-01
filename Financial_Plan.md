@@ -19,15 +19,15 @@
 |Data Storage/Processing | $100| $500 | $500 | $500 |
 |Domain Name | $15 | $15 | $15 | $15 |
 |Payment Form Processing + Storage | $25 | $50 | $100 | $150 |
-|Graphic Design | $1,500 | - | - | $,1500 |
+|Graphic Design | $1,500 | - | - | $1,500 |
 | | | | | |
 |TOTAL COST | $72,053 | $772,030 | $771,981| $$$ |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | 50,000 | 150,000 | 300,000 |
-|Item ($$$ revenue per customer) | 0 | $$$ | $$$ | $$$ |
+|Item (Average revenue per customer) | 0 | $5 | $5 | $5 |
 | | | | | |
-| TOTAL REVENUE | 0 | $$$ | $$$ | $$$ |
+| TOTAL REVENUE | 0 | $25,000 | 750,000 | 1,500,000 |
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 # Documentation of Assumed Expenses
