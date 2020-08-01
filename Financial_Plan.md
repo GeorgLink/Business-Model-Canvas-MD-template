@@ -29,7 +29,7 @@
 | | | | | |
 | TOTAL REVENUE | 0 | $250,000 | 750,000 | 1,500,000 |
 | | | | | |
-| TOTAL PROFIT | - | (522,030) | (21,981) | $$$ |
+| TOTAL PROFIT | - | (522,030) | (21,981) | 351,979 |
 # Documentation of Assumed Expenses
 
 - Liability Insurance - Protects our company in case of an accident that could potentially happend during work hours.
