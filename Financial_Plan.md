@@ -44,3 +44,5 @@
 - For the Customers, our first customer would be Walmart who has 2,200,000 employees and the revenue is based on charging Walmart $1.00/employee.</br> 
 - Year 2 assumes we get Amazon as a second customer who has 840,400 employees</br>
 - Year 3 adds Boeing and Delta who have 145,00 and 80,000 employees respectively</br>
+
+- Based on the total profit this business is financially viable given we could get the start-up funds and there is a lot of room for error and unknown expenditures in the profit margin.
