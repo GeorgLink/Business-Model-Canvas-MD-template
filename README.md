@@ -146,7 +146,7 @@ The majority of our drivers are Lower Middle Class to Lower Class. We provides t
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-The initial cost of any business can be fairly high. Especially when you put it side-bt-side to the revenue that is made the first year. Here at Hybrid Commute we have come up with a strategic cost structure plan that lays out our start up cost, first year, second year, and third year. 
+The initial cost of any business can be fairly high. Especially when you put it side-by-side to the revenue that is made the first year. Here at Hybrid Commute we have come up with a strategic cost structure plan that lays out our start up cost, first year, second year, and third year. 
       
 **Important Cost.** It is hard to narrow down the list of important cost when first starting a business. It all depends on what type of business you are starting. We have chosen to rent a space in downtown Omaha. Our first cost will be lease/furnishings/utilities. This will give us a space to create our website, obtain a license, supplies, and insurance. Marketing/Manufactering and Payroll services are also in our top priority list. These cost will give us a solid foundation to start our business.
 
