@@ -5,7 +5,7 @@
 <p align="justify">We create Digital Training Record software. It is important for all businesses to keep track of their employees job responsibilites, skills and training. Whether your business is; just starting off, Fortune 500 or even the military, our software can save valuable time and resources. No need to ask employees if they have been trained or spend countless hours going through employee files. Simply reference their training record and you will have the needed information in seconds.</p>    
 
 ## Website of Business
-<a href="Innovieren. html">
+<a href="innovieren.epizy.com">innovieren.epizy.com</a>
 
 ## Business Model Canvas
 Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
@@ -14,9 +14,13 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <ul>
+        <li>Cloud email provider (Google's G Suite/Microsoft Office 365 Premium) will enable our employees to send, receive, accept and store email from customers or end users.</li>
+        <li>Banks: We work with banks to get our company checking accounts, savings accounts, credit card accounts, and merchant services accounts. Merchant services accounts allow us to accept credit and debit card transactions from our customers. We also work with banks to provide loans to our customers if needed.</li>
+        <li>Advertising companies (on-line, direct mail, catalogues and leaflets, ...) would design advertisement campaigns to spread the word about our products and services, attract targeted customers, and generate sales.</li>
+        <li>Data storage partners: Innovieren requires storage systems that are highly scalable, offer unlimited connectivity, and support multiple platforms.</li>
+        <li>IT remote support providers: This provider would help our company take care of on-line customer services and support and out-of-office hours.</li>
+      </ul>
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
