@@ -66,14 +66,24 @@
 - Marketing Analyst - $70,000 = $70,000
 - Customer Service X 3 - $30,000 = $90,000
 # Citations
-12107 Emmet Street, Omaha NE *OfficeSpace* [Tranquility Park] (https://www.officespace.com/ne/omaha/253212-12101-emmet-st)
+12107 Emmet Street, Omaha NE *OfficeSpace* Tranquility Park https://www.officespace.com/ne/omaha/253212-12101-emmet-st
+
 Amazon Web Services, Inc. (2020). AWS Pricing Calculator. Retrieved July 31, 2020, from https://calculator.aws/
+
 Amazon Web Services, Inc. (2020). Economics 2: EC2. Retrieved July 31, 2020, from https://aws.amazon.com/ec2/pricing/on-demand/
+
 How Much Does General Liability Insurance Cost? (n.d.). Retrieved July 31, 2020, from https://www.insureon.com/small-business-insurance/general-liability/cost
+
 Indeed. (2020). Home. Retrieved July 31, 2020, from https://www.indeed.com/career/data-analyst/salaries/Omaha--NE
+
 Indeed. (2020). Home. Retrieved July 31, 2020, from https://www.indeed.com/career/software-engineer/salaries
+
 Microsoft. (2020). Microsoft Surface Laptop 3 15" Touch-Screen AMD Ryzen™ 5 Surface Edition 8GB Memory 256GB SSD (Latest Model) Platinum VGZ-00001. Retrieved July 31, 2020, from https://www.bestbuy.com/site/microsoft-surface-laptop-3-15-touch-screen-amd-ryzen-5-surface-edition-8gb-memory-256gb-ssd-latest-model-platinum/6374335.p?skuId=6374335
+
 Payscale. (2020). Average Bookkeeper Hourly Pay. Retrieved July 31, 2020, from https://www.payscale.com/research/US/Job=Bookkeeper/Hourly_Rate
+
 Payscale. (2020). Average Marketing Analyst Salary. Retrieved July 31, 2020, from https://www.payscale.com/research/US/Job=Marketing_Analyst/Salary
+
 Schäferhoff, N. (2020, July 17). How Much Does a Website Cost? (A Detailed Website Cost Blueprint). Retrieved July 31, 2020, from https://websitesetup.org/website-cost/
+
 Schmid, G. (2020, March 18). 14 Business Startup Costs Business Owners Need to Know. Retrieved July 31, 2020, from https://www.fundera.com/blog/business-startup-costs
