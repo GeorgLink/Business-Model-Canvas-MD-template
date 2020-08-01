@@ -4,10 +4,12 @@
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
 |License| $50 | 0 | 0 | 0|
-|Website creation/Designing | $2000| $$$ | $$$ | $$$ |
-|Marketing/MAnufacturing | $ 5000/year | $5000/year | $5000/year | $5000/year |
+|Website Creation/Designing | $2000| $$$ | $$$ | $$$ |
+|Marketing/Manufacturing | $ 5000/year | $5000/year | $5000/year | $5000/year |
 |Basic supplies | $100 | $100 | $100 | $100 |
 |Payroll| $14,585| $14,585 | $14,585 | $14,585 |
+|Insurance|$0|$228|$251|$264|
+|Lease/Furninshing/utilities|$5,000|$22,000|$22,000|$22,000|
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ | 
 
 
