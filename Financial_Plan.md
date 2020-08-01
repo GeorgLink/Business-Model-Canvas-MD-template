@@ -12,15 +12,15 @@
 |Insurance| - | $228 | $251 | $264 |
 |Lease/Furninshing/utilities| $5,000 | $22,000 | $22,000 | $22,000 |
 |
-|TOTAL COST | $26,963 | $49,136 | $ | $$$ | 
+|TOTAL COST | $26,735 | $49,113 | $49,186 | $49,249 | 
 
 
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|Number of Customers | 0 | 1000 | 2000 | 5000 |
+|Number of Customers | - | 1000 | 2000 | 5000 |
 |Subscription | - | $39.99 / year | $39.99 / year | $39.99 / year |
 |Advertising | - | $7.18 | $9.59 | $12.13 |
-|Affiliate Marketing | 0 | $12.70 | $24.50 | $28.83 |
+|Affiliate Marketing | - | $12.70 | $24.50 | $28.83 |
 |Sponsorship | - | $7 | $10.01 | $14.31 |
 |Fee-based | - | $100 | $180 | $250 |
 | | | | | |
