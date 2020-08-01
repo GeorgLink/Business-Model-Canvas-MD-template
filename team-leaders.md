@@ -4,5 +4,5 @@
 * T2: (Dan Hoang)
 * T3: (Sweta KC)
 * T4: (David Christianson)
-* T5: (add name)
+* T5: (Jacob Hemmerich)
 * T6: (add name)
