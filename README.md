@@ -54,16 +54,15 @@ Add a very brief summary of each section in this table and provide details in th
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <p>To establish the business, Innovieren spends a lot of investment on perfecting our Digital Training Record before it is officially launched and introduced to customers. Then, we spend on marketing and advertising, recruiting and training new sales representatives. To keep the business running, we continue to spend on marketing and advertising, rent and utilities, employees' salaries. For future competitiveness and ability to achieve long-term profit, Innovieren will cut down overhead costs that incur in rent, utilities. Since our key activities of our business (digital product and services) occur mostly on an on-line platform, we would no longer request our employees to be at the office. Thus, we will rent a smaller office, paying less in rent. Meanwhile, once we have gained enough revenue, we would proceed to develop our training program, hiring employees to become professional trainers.
+The most expensive key resources are technical expertise (Digital Training Record and customed training programs), employees with certain skill sets (sales representatives, technicians, professional trainers).
+The most expensive key activities include building and maintain the application, marketing and advertising, assessment development.</p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p>Our main revenue stream is from subscription fees of Digital Training Record. Other revenue streams come from training programs designed by our company that customers choose to add-on to the purchased subscription.</br>
+Our customers are willing to pay for a stable and user-friendly application with great customer services and supports.</br>
+They would prefer to pay with debit/credit cards.</p>
     </td>
   </tr>
 </table>
