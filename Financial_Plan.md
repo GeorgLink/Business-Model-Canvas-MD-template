@@ -8,8 +8,6 @@
 |Marketing/MAnufacturing | $ 5000/year | $5000/year | $5000/year | $5000/year |
 |Basic supplies | $100 | $100 | $100 | $100 |
 |Payroll| $14,585| $14,585 | $14,585 | $14,585 |
-
-
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ | 
 
 
