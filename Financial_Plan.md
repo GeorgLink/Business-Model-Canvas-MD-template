@@ -3,28 +3,32 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|License| $50 | 0 | 0 | 0|
-|Website creation/Designing | $2000 | $$$ | $$$ | $$$ |
-|Marketing/MAnufacturing | $ 5000/year | $5000/year | $5000/year | $5000/year |
-|Basic supplies | $100 | $100 | $100 | $100 |
-|Payroll | $14,585 | $14,585 | $14,585 | $14,585 |
-| | | | | |
-|TOTAL COST | $$$ | $$$ | $$$ | $$$ |
+|License| $50 | - | - | - |
+|Website Creation/Designing | $2000 | - | - | - |
+|Website Maintenance| - | $7,200 | $7,200 | $7,200 |
+|Marketing/Manufacturing | $ 5000/year | $5000/year | $5000/year | $5000/year |
+|Basic supplies | $100 | $100 | $150 | $200 |
+|Payroll Services| $14,585| $14,585 | $14,585 | $14,585 |
+|Insurance| - | $228 | $251 | $264 |
+|Lease/Furninshing/utilities| $5,000 | $22,000 | $22,000 | $22,000 |
+|TOTAL COST | $26,735 | $49,113 | $49,186 | $49,249 | 
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
-|Number of Customers | 0 | 1000 | 2000 | 5000 |
-|Subscription | 0 | $39.99 / year | $39.99 / year | $39.99 / year |
-|Advertising | 0 | $7.18 | $9.59 | $12.13 |
-|Affiliate Marketing | 0 | $12.70 | $24.50 | $28.83 |
-|Sponsorship | 0 | $7 | $10.01 | $14.31 |
-|Fee-based | 0 | $100 | $180 | $250 |
+|---|---|---|---|---|
+|Number of Customers | - | 1000 | 2000 | 5000 |
+|Subscription | - | $39.99 / year | $39.99 / year | $39.99 / year |
+|Advertising | - | $7.18 | $9.59 | $12.13 |
+|Affiliate Marketing | - | $12.70 | $24.50 | $28.83 |
+|Sponsorship | - | $7 | $10.01 | $14.31 |
+|Fee-based | - | $100 | $180 | $250 |
 | | | | | |
 | TOTAL REVENUE | 0 | $166,870 | $528,180 | $1,726,300 |
 | | | | | |
-| TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
+| TOTAL PROFIT | -$26,735 | $117,757 | $478,994 | $1,677,051 |
 
 
 ### References:
+
 1. Monex Securities Australia. (2019, May 28). Breaking down Lyft, Inc.'s huge IPO. Retrieved July 31, 2020, from https://www.monexsecurities.com.au/insights/news/breaking-down-lyft-inc-huge-ipo
 
 2. Palmer, B. (2020, June 13). Sam's Club vs. Costco: Which Has Better Deals? Retrieved July 31, 2020, from https://www.investopedia.com/articles/budgeting-savings/091016/sams-club-vs-costco-which-has-better-deals-wmt-cost.asp
@@ -45,6 +49,7 @@
      
 
 ### Note on Revenue Accounting:
+
 1. Number of customers was estimated by using reference 1. In this estimation, I follow the 30% growth each year of Lyft and Uber. But, since we are a young company and have a lot of potential to grow fast in the first few years, I tripled the amount.
 
 2. Subscription revenue was estimated by using reference 2. Assume we charge $80 / year for membership cost (similar to Costco and Sam’s Club) and only half of our users subscribed to this service.
@@ -56,6 +61,7 @@
 5. Sponsorship was estimated by using reference 6. In this estimation, the sponsorship market has a growth of 4.3% yearly, our audience size is 22,000 people (from social media, community forum, etc.), average sponsorship cost is $700 and we have about 10 sponsorships each year.
 
 6. Fee-based for our main services was estimated using mostly my own assumptions. These fees can be either percent-based or flat. For commute solutions service, we take 7% out of the user cost for their trip. For transportation rental service, we charge the same as U-Haul and Enterprise. Also, on average, Americans are spending anywhere between $2,000 and $5,000 on transportation each year and we have 5% market share in the beginning.
+
 
 ### Note on Cost Structures:
 
