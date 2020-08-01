@@ -12,8 +12,10 @@
 |Utilities | $525,000 | $6,300,000 | $6,300,000 | $6,300,000 |
 |Office Furniture | $150,000 | $750,000 | $1,500,000 | $0.00 |
 |Office Electronics | $200,000 | $1,000,000 | $2,000,000 | $0.00 |
+|Digital Training Record Creation|$50,000|$0.00|$0.00|$0.00|
+|CEO's Salaries|---|---|---|---|
 | | | | | |
-|TOTAL COST | $1,781,725.72 | $17,250,708.91 | $22,689,659.57 | $19,189,659.57 |
+|TOTAL COST | $1,831,725.72 | $17,250,708.91 | $22,689,659.57 | $19,189,659.57 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 1 | 1 | 2 | 4 |
@@ -21,7 +23,7 @@
 | | | | | |
 | TOTAL REVENUE | $2,200,000 | $26,400,000 | $36,484,800 | $39,184,800 |
 | | | | | |
-| TOTAL PROFIT | $418,274.28 | $9,149,291.09 | $13,795,140.43 | $19,995,140.43 |
+| TOTAL PROFIT | $368,274.28 | $9,149,291.09 | $13,795,140.43 | $19,995,140.43 |
 
 For the servers we used AWS TCO Calculator https://awstcocalculator.com/#</br>
 Database Server: 1 server - 256GB memory - 4 processors - 6 cores - DB - Linux OS - SQL Server Enterprise (BYOL) - 3 sets of storage capacity 1000TB each - SSD (Doubled in size for year 2)</br>
