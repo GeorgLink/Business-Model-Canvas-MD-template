@@ -11,8 +11,8 @@
 
 
 | | | | | |
-|TOTAL COST | $$$ | $$$ | $$$ | $$$ |
-| | | | | |
+|TOTAL COST | $$$ | $$$ | $$$ | $$$ || | | | | |
+
 
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | 1000 | 2000 | 5000 |
