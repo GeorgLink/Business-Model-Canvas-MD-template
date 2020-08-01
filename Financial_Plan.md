@@ -3,24 +3,26 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-|License| $50 | 0 | 0 | 0|
-|Website Creation/Designing | $2000| $$$ | $$$ | $$$ |
+|License| $50 | - | - | - |
+|Website Creation/Designing | $2000 | - | - | - |
+|Website Maintenance| - | $7,200 | $7,200 | $7,200 |
 |Marketing/Manufacturing | $ 5000/year | $5000/year | $5000/year | $5000/year |
-|Basic supplies | $100 | $100 | $100 | $100 |
-|Payroll| $14,585| $14,585 | $14,585 | $14,585 |
-|Insurance|$0|$228|$251|$264|
-|Lease/Furninshing/utilities|$5,000|$22,000|$22,000|$22,000|
-|TOTAL COST | $$$ | $$$ | $$$ | $$$ | 
+|Basic supplies | $100 | $100 | $150 | $200 |
+|Payroll Services| $14,585| $14,585 | $14,585 | $14,585 |
+|Insurance| - | $228 | $251 | $264 |
+|Lease/Furninshing/utilities| $5,000 | $22,000 | $22,000 | $22,000 |
+|
+|TOTAL COST | $26,963 | $49,136 | $ | $$$ | 
 
 
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
 |Number of Customers | 0 | 1000 | 2000 | 5000 |
-|Subscription | 0 | $39.99 / year | $39.99 / year | $39.99 / year |
-|Advertising | 0 | $7.18 | $9.59 | $12.13 |
+|Subscription | - | $39.99 / year | $39.99 / year | $39.99 / year |
+|Advertising | - | $7.18 | $9.59 | $12.13 |
 |Affiliate Marketing | 0 | $12.70 | $24.50 | $28.83 |
-|Sponsorship | 0 | $7 | $10.01 | $14.31 |
-|Fee-based | 0 | $100 | $180 | $250 |
+|Sponsorship | - | $7 | $10.01 | $14.31 |
+|Fee-based | - | $100 | $180 | $250 |
 | | | | | |
 | TOTAL REVENUE | 0 | $166,870 | $528,180 | $1,726,300 |
 | | | | | |
