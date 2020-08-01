@@ -9,9 +9,11 @@
 |Basic supplies | $100 | $100 | $100 | $100 |
 |Payroll| $14,585| $14,585 | $14,585 | $14,585 |
 
+
 | | | | | |
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ |
 | | | | | |
+
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | 1000 | 2000 | 5000 |
 |Subscription | 0 | $39.99 / year | $39.99 / year | $39.99 / year |
