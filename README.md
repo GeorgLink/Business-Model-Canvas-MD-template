@@ -66,7 +66,7 @@ The most expensive key activities include building and maintain the application,
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
       <p align="justify">Our main revenue stream is from subscription fees of Digital Training Record. Other revenue streams come from training programs designed by our company that customers choose to add-on to the purchased subscription.</br>
 Our customers are willing to pay for a stable and user-friendly application with great customer services and supports.</br>
-They would prefer to pay with debit/credit cards.</p>
+They would prefer to pay with debit/credit cards or direct deposit from their business bank accounts.</p>
     </td>
   </tr>
 </table>
