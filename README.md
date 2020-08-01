@@ -146,10 +146,12 @@ The majority of our drivers are Lower Middle Class to Lower Class. We provides t
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+The initial cost of any business can be fairly high. Especially when you put it side-bt-side to the revenue that is made the first year. Here at Hybrid Commute we have come up with a strategic cost structure plan that lays out our start up cost, first year, second year, and third year. 
+      
+**Important Cost.** It is hard to narrow down the list of important cost when first starting a business. It all depends on what type of business you are starting. We have chosen to rent a space in downtown Omaha. Our first cost will be lease/furnishings/utilities. This will give us a space to create our website, obtain a license, supplies, and insurance. Marketing/Manufactering and Payroll services are also in our top priority list. These cost will give us a solid foundation to start our business.
+
+
+**Most Costly Key Resources** With any good business is required an initial sacrifice. We pride ourselves on a solid foundation at Hybrid Commute. The first of the two most costly key resources is hardware and office equipment. This would include things like building rent, computers, scanners, furnishings, utilities, and printers. The second of the two most costly key resources is platform. This is a mix of their creation and maintenance of our website and marketing. The initial start up of creating a website is very costly, but the maintenance to keep a flourishing website can be costly as well. The marketing side of this is quite costly as well. It involves sponsoring local events, creating and paying for ads, having legs on the ground, and being active on social media.       
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
