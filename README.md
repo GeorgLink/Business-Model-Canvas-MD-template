@@ -71,7 +71,6 @@ Add a very brief summary of each section in this table and provide details in th
 ## Founders
 <!-- Team members -->
 * Brandon Mayer, Innovation Solutions Architect
-* Chelsea McDonough, Application Support Analyst
 * Randon Angell, Information Technology Manager
 * Vy Vo, Back-end Developer
 * Manish Karki, System Administrator
