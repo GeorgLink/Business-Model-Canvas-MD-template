@@ -13,7 +13,6 @@
 |Lease/Furninshing/utilities| $5,000 | $22,000 | $22,000 | $22,000 |
 |TOTAL COST | $26,735 | $49,113 | $49,186 | $49,249 | 
 
-
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
 |Number of Customers | - | 1000 | 2000 | 5000 |
@@ -25,10 +24,11 @@
 | | | | | |
 | TOTAL REVENUE | 0 | $166,870 | $528,180 | $1,726,300 |
 | | | | | |
-| TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
+| TOTAL PROFIT | -$26,735 | $117,757 | $478,994 | $1,677,051 |
 
 
 ### References:
+
 1. Monex Securities Australia. (2019, May 28). Breaking down Lyft, Inc.'s huge IPO. Retrieved July 31, 2020, from https://www.monexsecurities.com.au/insights/news/breaking-down-lyft-inc-huge-ipo
 
 2. Palmer, B. (2020, June 13). Sam's Club vs. Costco: Which Has Better Deals? Retrieved July 31, 2020, from https://www.investopedia.com/articles/budgeting-savings/091016/sams-club-vs-costco-which-has-better-deals-wmt-cost.asp
@@ -45,12 +45,11 @@
 
 8. How much money does it cost to start a business? (2020, July 2). Business News Daily. https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html
 
-9.McIntyre, G. (2020, April 18). How to get a business license: The ultimate state-by-state guide. Fundera: Compare Your Best Small Business Loan and Credit Card Options. https://www.fundera.com/blog/business-license
+9. McIntyre, G. (2020, April 18). How to get a business license: The ultimate state-by-state guide. Fundera: Compare Your Best Small Business Loan and Credit Card Options. https://www.fundera.com/blog/business-license
      
 
-Reply
-
 ### Note on Revenue Accounting:
+
 1. Number of customers was estimated by using reference 1. In this estimation, I follow the 30% growth each year of Lyft and Uber. But, since we are a young company and have a lot of potential to grow fast in the first few years, I tripled the amount.
 
 2. Subscription revenue was estimated by using reference 2. Assume we charge $80 / year for membership cost (similar to Costco and Sam’s Club) and only half of our users subscribed to this service.
@@ -63,7 +62,8 @@ Reply
 
 6. Fee-based for our main services was estimated using mostly my own assumptions. These fees can be either percent-based or flat. For commute solutions service, we take 7% out of the user cost for their trip. For transportation rental service, we charge the same as U-Haul and Enterprise. Also, on average, Americans are spending anywhere between $2,000 and $5,000 on transportation each year and we have 5% market share in the beginning.
 
-###Note on Cost Structures
+
+### Note on Cost Structures:
 
 The most important cost for our business is the startup cost. Since getting a license is the primary phase and most important.
 
