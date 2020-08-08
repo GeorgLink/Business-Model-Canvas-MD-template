@@ -8,7 +8,6 @@
 <a href="innovieren.epizy.com">innovieren.epizy.com</a>
 
 ## Business Model Canvas
-Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
 
 <table>
   <tr>
