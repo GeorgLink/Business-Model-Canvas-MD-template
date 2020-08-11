@@ -7,5 +7,6 @@
  * Education: Appealing to people with some college education to college educated people.<br>
 
 # Development over Time: 
-* Production of an automated moderator team based on artificial intelligence input from moderator team monitored over the beginning startup period (first inital 2-4 years). [Cut Costs overtime][Potentially market AI to other boards depending on success?]// Overtime, push for cleaner scripts and coding to allow for more seemless and quicker transition from pages to posts/comments/images. <br>
+* Production of an automated moderator team based on artificial intelligence input from moderator team monitored over the beginning startup period (first inital 2-4 years). [Cut Costs overtime][Potentially market AI to other boards depending on success?]// Overtime, push for cleaner scripts and coding to allow for more seemless and quicker transition from pages to posts/comments/images. 
+Our customer needs might alter over time, but we will do our best to adapt to these changes. Our flexibility will enable the forum to be continously relevant and within the occupied space of consumers time. <br>
 
