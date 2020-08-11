@@ -21,7 +21,7 @@
         <li>IT remote support providers: This provider would help our company take care of on-line customer services and support and out-of-office hours.</li>
       </ul>
     </td>
-    <td colspan="2">
+    <td>
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
       <p align="justify">With our Digital Training Record, not only are we providing a multilinguistic tool to track, document, and ensure an employee’s responsibilities, training, and certifications. We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred to prevent future injuries and Occupational Safety and Health Administration (OSHA) violations. With our product you will be able to see if an employee has been trained on important tasks such as hazardous waste disposal or proper lifting methods for heavy objects. This will guarantee a safe and compliant work environment. Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs.</p>
       <br><br><br><br><br>
