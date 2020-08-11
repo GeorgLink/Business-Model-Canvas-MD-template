@@ -43,7 +43,7 @@
         <li>All of these efforts will assist in maintaining a lasting relationship and make it easier to upsell product advancements. We expect our clients will react favorably, by using their preferred method of contact to regularly check in with them. This gesture would show that we care about their business and how our product is integrating and adding value to their organization</li>
       </ul>
     </td>
-    <td rowspan="2">
+    <td>
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
       <p align="justify">Our customers represent a variety of U.S. based corporations that value high-quality training in operational management, including areas of construction, customer service, retail, healthcare. We strive to assist employers in maintaining dependable employees by enhancing workplace confidence and ability. We will attempt to get the walmart corporation as our first customers. Our target market will be nursing care, residential care facilities, air transportation industries, big retail chains, and other industries with the highest worker compensations and OSHA violation claims. These industries are losing millions of dollars annualy in compensation for preventable injuries and OSHA fines. Our product will guarantee proper training to prevent future injury claims and OSHA violations.</p>
     </td>
@@ -58,7 +58,7 @@
         <li>Financial: In order for Innovieren to be successfull we will need investors to invest in our organization to get off the ground. These investors will be given a contract guaranteeing a return of investment with interest as well as stock options.</li>
       </ul>
     </td>
-    <td>
+    <td colspan="2">
       <b><a href="Channels.md">Channels</a></b>
       <ul align="justify">
         <li>We will utilize Sales Representatives to manage new and current customer contact.</li>
