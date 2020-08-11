@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td rowspan="2">
+    <td>
       <b><a href="Key_Partners.md">Key Partners</a></b>
       <ul>
         <li>Cloud email provider (Google's G Suite/Microsoft Office 365 Premium) will enable our employees to send, receive, accept and store email from customers or end users.</li>
