@@ -7,7 +7,7 @@ __Services__
 * Board Customization: Thematic options, layout preferences (text based, blog based, or picture based pages), linkable board music (partnership Spotify).
 * Live Streaming: Free streaming service - No subscriber base, donations allowed. Allowed for all boards (segregated by board topics). Option to show streaming sections in user settings.
 * Automated Customer Service - System to redirect for common troubleshooting issues, or if larger issue exists, direct line to technician. 
-* Subscriptions (Monthly), offering removal of ad space alongside additonal benefits to generate intial revenue. 
+* Subscriptions (Monthly), offering removal of ad space alongside bonuses of unique emojis, animations, flairs via subscriber package. 
 
 __Revenue__
 * Free users would have algorithim generated ads based on profile forum discussions and posts. Additionally, ad spaces to generate revenue for the site with sponsored ads of the website on homepage and heavy trafficked boards. 
