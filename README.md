@@ -55,7 +55,7 @@
         <li>Financial: In order for Innovieren to be successfull we will need investors to invest in our organization to get off the ground. These investors will be given a contract guaranteeing a return of investment with interest as well as stock options.</li>
       </ul>
     </td>
-    <td>
+    <td  colspan="2">
       <b><a href="Channels.md">Channels</a></b>
       <ul align="justify">
         <li>We will utilize Sales Representatives to manage new and current customer contact.</li>
