@@ -7,7 +7,7 @@
 
 Customer Service staff to support troubleshooting outside of re-occuring/common issues. <br>
 
-Marketing team to work with outside coporations for high population pages as well as coordinating with programming team on AI for targeted ads. <br>
+Marketing team to work with outside corporations for high population pages as well as coordinating with programming team on AI for targeted ads. <br>
 
 Programming team to fix bugs in codes with upcoming patches and monitoring AI systems for advertisements as well as suggested pages based on user information. <br>
 
