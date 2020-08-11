@@ -42,7 +42,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
      <ul>
        <li>Innovieren will develop and maintain a digital product to track organizational training requirements. A completely digital product means less cost to  customers and instant access to the product. Our customers will have access to an innovative online dashboard to manage all their employees' training requirements.</li>
@@ -58,7 +58,7 @@
         <li>Financial: In order for Innovieren to be successfull we will need investors to invest in our organization to get off the ground. These investors will be given a contract guaranteeing a return of investment with interest as well as stock options.</li>
       </ul>
     </td>
-    <td colspan="4">
+    <td colspan="2">
       <b><a href="Channels.md">Channels</a></b>
       <ul align="justify">
         <li>We will utilize Sales Representatives to manage new and current customer contact.</li>
