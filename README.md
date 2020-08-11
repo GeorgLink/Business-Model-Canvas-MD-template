@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td colspan="2">
+    <td>
       <b><a href="Key_Partners.md">Key Partners</a></b>
       <ul>
         <li>Cloud email provider (Google's G Suite/Microsoft Office 365 Premium) will enable our employees to send, receive, accept and store email from customers or end users.</li>
@@ -26,7 +26,7 @@
       <p align="justify">With our Digital Training Record, not only are we providing a multilinguistic tool to track, document, and ensure an employee’s responsibilities, training, and certifications. We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred to prevent future injuries and Occupational Safety and Health Administration (OSHA) violations. With our product you will be able to see if an employee has been trained on important tasks such as hazardous waste disposal or proper lifting methods for heavy objects. This will guarantee a safe and compliant work environment. Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs.</p>
       <br><br><br><br><br>
     </td>
-    <td colspan="2">
+    <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
       <ul align="justify">
         <li>Innovieren believes current clients will be just as important as new buyers. As such; our Sales Representatives will work to develop lasting relationships with our customers, while attracting new customers. New customers will contact or be contacted by a Sales Representative through one of the listed Channels. During this contact we would customize a training record. Specific account information, training video and download link for the software would be emailed after the contact.</li>
