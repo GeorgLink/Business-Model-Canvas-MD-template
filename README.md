@@ -80,9 +80,12 @@
     </td>
     <td  colspan="2">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p align="justify">Our main revenue stream is from subscription fees of Digital Training Record. Other revenue streams come from training programs designed by our company that customers choose to add-on to the purchased subscription.</br>
-Our customers are willing to pay for a stable and user-friendly application with great customer services and supports.</br>
-They would prefer to pay with debit/credit cards or direct deposit from their business bank accounts.</p>
+      <ul align="justify">
+        <li>Our main revenue stream is from subscription fees of Digital Training Record.</li>
+        <li>Other revenue streams come from training programs designed by our company that customers choose to add-on to the purchased subscription.</li>
+        <li>Our customers are willing to pay for a stable and user-friendly application with great customer services and supports.</li>
+        <li>They would prefer to pay with debit/credit cards or direct deposit from their business bank accounts.</li>
+      </ul>
     </td>
   </tr>
 </table>
