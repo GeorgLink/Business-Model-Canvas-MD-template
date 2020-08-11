@@ -1,5 +1,5 @@
 # Customer Relationships
-<ul>
+<ul align="justify">
   <li>Innovieren believes current clients will be just as important as new buyers. As such; our Sales Representatives will work to develop lasting relationships with our customers, while attracting new customers. New customers will contact or be contacted by a Sales Representative through one of the listed Channels. During this contact we would customize a training record. Specific account information, training video and download link for the software would be emailed after the contact.</li>
   <li>After subscription purchase, and depending on the needs of the business, we would send a team of professionals to the client. This team would provide in depth training to employees on the software use and provide consultation on OSHA requirements and other standard business practices.</li>
   <li>For current customers we plan on maintaining these lasting relationships; at a minimum Sales Representatives keep quarterly contact with our client’s Human Resource Department and/or designated Manager to illicit feedback and ensure the product is working as promised.</li>
