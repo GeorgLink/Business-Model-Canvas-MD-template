@@ -1,7 +1,7 @@
 # Customer Relationships
-The goal of One Piece would be to have unintrusive methods of communication with its customer base. We do not intend on contacting our customers unless their is something directly affecting their accounts. 
+The goal of One Piece would be to have unintrusive methods of communication with its customer base. We do not intend on contacting our customers unless there is something directly affecting their accounts. 
 In terms of patch notices and website updates we will have a stickied post for indefinite periods of time, depending on the impact of the changes. <br>
-We can also send in site account messages on any site changes/board issues. <br>
+We can also send in site account messages on any site changes or board specific issues. <br>
 A big issue we wanted to reference is that we did not want to send any emails if at all possible. We discussed that many automated messages sent to our emails tend to get unsubscribed or ignored completely. <br>
 
 **Subscriber Loyalty Program:** With purchase of subscription for whole year, include next years rate at reduced cost with additional benefits of renewing subscription. <br>
