@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
       <ul>
         <li>Cloud email provider (Google's G Suite/Microsoft Office 365 Premium) will enable our employees to send, receive, accept and store email from customers or end users.</li>
@@ -42,7 +42,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <b><a href="Key_Activities.md">Key Activities</a></b>
      <ul>
        <li>Innovieren will develop and maintain a digital product to track organizational training requirements. A completely digital product means less cost to  customers and instant access to the product. Our customers will have access to an innovative online dashboard to manage all their employees' training requirements.</li>
