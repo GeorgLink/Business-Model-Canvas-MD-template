@@ -55,7 +55,7 @@
         <li>Financial: In order for Innovieren to be successfull we will need investors to invest in our organization to get off the ground. These investors will be given a contract guaranteeing a return of investment with interest as well as stock options.</li>
       </ul>
     </td>
-    <td  colspan="2">
+    <td>
       <b><a href="Channels.md">Channels</a></b>
       <ul align="justify">
         <li>We will utilize Sales Representatives to manage new and current customer contact.</li>
@@ -68,13 +68,13 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="4">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
       <p align="justify">To establish the business, Innovieren spends a lot of investment on perfecting our Digital Training Record before it is officially launched and introduced to customers. Then, we spend on marketing and advertising, recruiting and training new sales representatives. To keep the business running, we continue to spend on marketing and advertising, rent and utilities, employees' salaries. For future competitiveness and ability to achieve long-term profit, Innovieren will cut down overhead costs that incur in rent, utilities. Since our key activities of our business (digital product and services) occur mostly on an on-line platform, we would no longer request our employees to be at the office. Thus, we will rent a smaller office, paying less in rent. Meanwhile, once we have gained enough revenue, we would proceed to develop our training program, hiring employees to become professional trainers.
 The most expensive key resources are technical expertise (Digital Training Record and customed training programs), employees with certain skill sets (sales representatives, technicians, professional trainers).
 The most expensive key activities include building and maintain the application, marketing and advertising, assessment development.</p>
     </td>
-    <td  colspan="3">
+    <td  colspan="2">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
       <p align="justify">Our main revenue stream is from subscription fees of Digital Training Record. Other revenue streams come from training programs designed by our company that customers choose to add-on to the purchased subscription.</br>
 Our customers are willing to pay for a stable and user-friendly application with great customer services and supports.</br>
