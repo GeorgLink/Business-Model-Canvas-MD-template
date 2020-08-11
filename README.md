@@ -28,7 +28,7 @@
        <li>With an added benefit, our product will help to mitigate workers compensation claims, and prevent OSHA violations/fines. Our goal is to put more money back into your pocket. We dedicate ourselves to software development and programming, sales representative development, client development, and customization for clients' needs.</li>
       </ul>
     </td>
-    <td rowspan="2" colspan="2">
+    <td colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
       <p align="justify">With our Digital Training Record, not only are we providing a multilinguistic tool to track, document, and ensure an employee’s responsibilities, training, and certifications. We are also providing your HR department with a root cause analysis tool to determine why a workplace incident might have occurred to prevent future injuries and Occupational Safety and Health Administration (OSHA) violations. With our product you will be able to see if an employee has been trained on important tasks such as hazardous waste disposal or proper lifting methods for heavy objects. This will guarantee a safe and compliant work environment. Training reps knowledgeable in OSHA regulations, and other common standard business practices, will be available to help build customized training plans to suit your needs.</p>
       <br><br><br><br><br>
@@ -49,7 +49,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <b><a href="Key_Resources.md">Key Resources</a></b>
       <ul>
         <li>Physical: In order for Innovieren to operate we will need three separate servers, one dedicated to the Digital Training Record website, a second one to run our corporate LAN to allow employees to communicate and collaborate and a thrid server and network would be required to run our sales, customer service, and IT departments VOIP phone banks. All servers would be managed by a Unix server operating system. We would also require a database to backup and maintain all client data. Innovieren will own all equipment to maintain positive control and security of our clients data.</li>
