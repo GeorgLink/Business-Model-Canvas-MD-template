@@ -6,3 +6,4 @@
 * T3: Chelsea McDonough
 * T4: Manish Karki
 * T5: Vy Vo
+* T6: Randon Angell
