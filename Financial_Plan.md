@@ -10,14 +10,14 @@
 | Payroll/100 employees | $400,000 | $2,000,000 | $4,000,000 | $4,000,000 |
 | Health Insurance | $0.00 | $5,000,000 | $10,000,000 | $10,000,000 |
 | Office Building lease | $416,667 | $5,000,000| $5,000,000 | $5,000,000 |
-| Utilities | $0.00 | $6,300,000 | $6,300,000 | $6,300,000 |
+| Utilities | $525,000 | $6,300,000 | $6,300,000 | $6,300,000 |
 | Office Furniture | $150,000 | $750,000 | $1,500,000 | $0.00 |
 | Office Electronics | $200,000 | $1,000,000 | $2,000,000 | $0.00 |
 | Digital Training Record Creation | $50,000  |$0.00 | $0.00 | $0.00 |
 | CEO's Salaries | $0.00 | $350,000 | $350,000 | $350,000 |
 | Advertisement | $10,000 | $120,000 | $120,000 | $120,000 |
 | | | | | |
-| TOTAL COST | $1,476,728 | $23,520,531 | $34,759,661 | $31,259,661 |
+| TOTAL COST | $2,001,728 | $23,520,531 | $34,759,661 | $31,259,661 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 | Number of Customers | 1 | 1 | 2 | 4 |
@@ -26,7 +26,7 @@
 | | | | | |
 | TOTAL REVENUE | $0.00 | $26,950,000 | $36,694,800 | $39,241,050 |
 | | | | | |
-| TOTAL PROFIT | $-1,476,728 | $3,429,469 | $1,935,139 | $7,981,389 |
+| TOTAL PROFIT | $-2,001,728 | $3,429,469 | $1,935,139 | $7,981,389 |
 
 - For the servers we used AWS TCO Calculator https://awstcocalculator.com/#</br>
 - Database Server: 1 server - 256GB memory - 4 processors - 6 cores - DB - Linux OS - SQL Server Enterprise (BYOL) - 3 sets of storage capacity 1000TB each - SSD (Doubled in size for year 2)</br>
