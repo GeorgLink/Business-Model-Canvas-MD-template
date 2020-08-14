@@ -13,11 +13,11 @@
   <tr>
     <td colspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p align="justify">- Cloud email provider (Google's G Suite/Microsoft Office 365 Premium) will enable our employees to send, receive, accept and store email from customers or end users.<br><br>
-      - Banks: We work with banks to get our company checking accounts, savings accounts, credit card accounts, and merchant services accounts. Merchant services accounts allow us to accept credit and debit card transactions from our customers. We also work with banks to provide loans to our customers if needed.<br><br>
-      - Advertising companies (on-line, direct mail, catalogues and leaflets, ...) would design advertisement campaigns to spread the word about our products and services, attract targeted customers, and generate sales.<br><br>
-      - Data storage partners: Innovieren requires storage systems that are highly scalable, offer unlimited connectivity, and support multiple platforms.<br><br>
-      - IT remote support providers: This provider would help our company take care of on-line customer services and support and out-of-office hours.</p>
+      <p align="justify">- Cloud email provider: We will provide Microsoft Office 365 Premium to our employees, which, will enable our them to send, receive, accept and store email from customers and/or end users. We feel that using one service provider over two will cut down on issues with systems attempting to communicate with each other.<br><br>
+      - Banks: Initially, we will apply for a two million dollar SBA 7(a) loan from "Chase" bank to get our company started. Additionally, we will use "Capital One" for our business savings, checking and credit card accounts. Capital One offers unlimited transactions with no fees, which could save us money as we continue to grow. Merchant services accounts allow us to accept credit and debit card transactions from our customers. As our Merchant service account provider we will use Flagship Merchant Services. We also work with banks to provide loans to our customers if needed.<br><br>
+      - Advertising: With Google being a highly utilized search engine we feel it is necessary to advertise through Google Advertising, we have decided on the world largest marketing group Pentagram for our digital design needs and Clay Communications and Marketing for our advertising agency. We feel these key partners will help get our business the publicity it needs to grow.<br><br>
+      - Data storage partners: Innovieren requires storage systems that are highly scalable, offer unlimited connectivity, and support multiple platforms. Additionally, we will be handling sensitive information and feel that owning our equipment is preferred over outsourcing our data storage needs.<br><br>
+      - IT remote support providers: We will outsource our afterhours technical support services to Flatworld Solutions. This will allow us to provide 24/7 support for our clients.</p>
     </td>
     <td>
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
